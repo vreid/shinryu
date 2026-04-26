@@ -723,9 +723,9 @@ older, the one that made her chest tight every time a notification appeared.
 >
 > _I'm curious too!! How's the weather in Tokyo? Are the cherry blossoms out?_
 
-> **지우:** 언니 보고 싶어요. 학교에서 춤 추고 있어요?
+> **지우:** 지원아 보고 싶어요. 학교에서 춤 추고 있어요?
 >
-> _I miss you, unnie. Are you dancing at school?_
+> _I miss you, Ji-won-ah. Are you dancing at school?_
 
 Isabelle stared at the screen. Four messages from four women who were, at this
 moment, somewhere in Seoul—probably at the agency, probably in rehearsal,
@@ -754,10 +754,10 @@ She typed:
 >
 > _What, it's true lol_
 
-> **지우:** 언니, 마들렌 또 만들었어요? 여기 연습실에 간식이 없어요. 아무도
-> 언니처럼 빵 안 만들어줘요 ㅠ
+> **지우:** 지원아, 마들렌 또 만들었어요? 여기 연습실에 간식이 없어요. 아무도
+> 지원이처럼 빵 안 만들어줘요 ㅠ
 >
-> _Unnie, did you make madeleines again? There are no snacks here in the
+> _Ji-won-ah, did you make madeleines again? There are no snacks here in the
 > practice room. Nobody bakes for us like you did ㅠ_
 
 Isabelle felt something pull behind her ribs. A specific kind of

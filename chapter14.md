@@ -551,7 +551,7 @@ He thought: _This is what privilege pays back._
 
 ## IV.
 
-Sunday. The day before the prefectural meet.
+Friday. The day before the prefectural meet.
 
 Ren came to school to pick up his spikes.
 
@@ -829,7 +829,7 @@ held them up.
 
 They stood in the doorway, looking at the photographs, and the dough chilled in
 the refrigerator, and the evening light moved across the room, and the city
-hummed fourteen stories below, and neither of them moved because neither of them
+hummed nine stories below, and neither of them moved because neither of them
 needed to, because they were exactly where they were supposed to be, and the
 evidence was on the wall.
 

@@ -69,7 +69,7 @@ their own choice.
 
 - **Auntie Choi (Choi Eunji):** Isabelle's housekeeper. Late 50s, center-parted
   bob, navy linen apron. Strict, precise, protective. Cooks Korean breakfasts
-  (doenjang-jjigae, galbi, samgyeopsal). Inspects cold chain documentation at
+  (galbi, samgyeopsal). Inspects cold chain documentation at
   Kinokuniya. Starches blouses twice. Coordinates nightly with Auntie Park.
   Calls Caspar's housekeeper "that woman" (affectionate rivalry). Has a kitchen
   torch and opinions about meringue browning.
@@ -406,7 +406,7 @@ event together (Ch11).
 
 - **Galbi-jjim (braised short ribs)**
   - Who makes it: Auntie Park
-  - Context: First shared with Kenji (Ch1). "Religious experience."
+  - Context: First shared with Kenji (Ch4). "Religious experience."
 - **Bulgogi**
   - Who makes it: Auntie Choi
   - Context: Isabelle's bento staple.
@@ -524,5 +524,7 @@ event together (Ch11).
 - **No quoted text in chapter bodies** — LINE messages are formatted as block
   quotes with translation. No other text appears in quotation marks for thoughts
   or messages.
-- **Section breaks:** `---` between sections. Each section opens with a
-  time/place marker.
+- **Korean language accuracy:** All Korean usage must be linguistically correct —
+  honorifics, speech levels, address terms, and particle usage should reflect real
+  Korean usage. Age-based terms (언니, 형, etc.) follow actual age hierarchy, not
+  respect or skill level.

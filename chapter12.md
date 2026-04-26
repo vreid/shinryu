@@ -80,9 +80,9 @@ hurt that Isabelle had not warned her.
 >
 > _Your not-calm is showing lol_
 
-> **지우:** 언니, 천천히 말해요. 다 들을게요.
+> **지우:** 지원아, 천천히 말해요. 다 들을게요.
 >
-> _Unnie, take your time. We're all listening._
+> _Ji-won-ah, take your time. We're all listening._
 
 Isabelle looked at Jiwoo's message. The youngest, always the steadiest, always
 the one who created space. She breathed.
@@ -152,9 +152,9 @@ Seo Yuna in it.
 
 The chat went quiet again. Fifteen seconds this time. Then:
 
-> **지우:** 언니 ㅠㅠㅠㅠ
+> **지우:** 지원아 ㅠㅠㅠㅠ
 >
-> _Unnie ㅠㅠㅠㅠ_
+> _Ji-won-ah ㅠㅠㅠㅠ_
 
 > **하은언니:** 나도 울어 ㅠㅠ
 >
@@ -205,9 +205,9 @@ The chat exploded.
 
 > **유나언니:** 적은 거거든????
 
-> **지우:** 언니. 이름이 뭐예요?
+> **지우:** 지원아. 이름이 뭐예요?
 >
-> _Unnie. What's his name?_
+> _Ji-won-ah. What's his name?_
 
 Isabelle smiled. Jiwoo. Cutting through the chaos with the precision of a
 scalpel. Not _what does he look like,_ not _how did you meet,_ not _is he
@@ -387,9 +387,9 @@ The chat was quiet for six seconds.
 >
 > _...He's handsome._
 
-> **지우:** 언니, 눈 색깔이 뭐예요?
+> **지우:** 지원아, 눈 색깔이 뭐예요?
 >
-> _Unnie, what color are his eyes?_
+> _Ji-won-ah, what color are his eyes?_
 
 > **지원:** 연한 파란색이에요. 빙하 같은.
 >
@@ -455,10 +455,10 @@ the individuals within it, monitoring, calibrating, protecting.
 >
 > _Then that's enough. Everything else is secondary._
 
-> **지우:** 언니. 무서운 게 정상이라고 했잖아요. 무섭다는 건 진심이라는
+> **지우:** 지원아. 무서운 게 정상이라고 했잖아요. 무섭다는 건 진심이라는
 > 뜻이라고. 이제 안 무서워요?
 >
-> _Unnie. I said being scared is normal. That being scared means it's real. Are
+> _Ji-won-ah. I said being scared is normal. That being scared means it's real. Are
 > you not scared anymore?_
 
 Isabelle read Jiwoo's message. She read it twice. She thought about the fear—the
@@ -528,9 +528,9 @@ She typed one last message:
 
 > **민지언니:** 우리도.
 
-> **지우:** 저도요, 언니.
+> **지우:** 저도요, 지원아.
 >
-> _Me too, unnie._
+> _Me too, Ji-won-ah._
 
 She locked the phone. She pressed it against her chest. She sat on the bedroom
 floor for a long time, breathing, the apartment quiet around her, the city
@@ -604,7 +604,7 @@ The reply was instantaneous.
 >
 > _But._
 
-> **유나:** 울리면 나 도쿄 간다.
+> **유나:** 울리면 도쿄 온다.
 >
 > _If you make her cry, I'm coming to Tokyo._
 
@@ -881,7 +881,7 @@ news broadcast, the domestic percussion of a household in motion.
 
 "우리." _Us._
 
-The word sat between them—carried across the phone connection, across the twelve
+The word sat between them—carried across the phone connection, across the two
 kilometers between Hiroo and Minami-Aoyama, across the entire distance they had
 traveled since a school gate and a nod and twelve words in Korean. _Us._ The
 word that contained the bench and the strawberries and the madeleines and the
@@ -921,7 +921,7 @@ She smiled.
 Monday morning.
 
 They walked through the gate together. Hands linked. His camera bag over one
-shoulder. Her school bag over the other. The June light warm on their faces, the
+shoulder. Her school bag over the other. The May light warm on their faces, the
 cherry trees fully green, the courtyard buzzing with the ordinary, extraordinary
 energy of four hundred teenagers starting another week.
 

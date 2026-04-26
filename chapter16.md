@@ -96,7 +96,7 @@ Sora's face did a complicated thing. "Really?"
 
 "It really doesn't."
 
-The table laughed. Morimoto-sensei, at the edge, smiled into his convenience store bento. The sound of the laugh—eight voices plus a teacher plus a manga artist plus a club president, layered and overlapping and genuine—filled the classroom and spilled into the hallway and mixed with the ambient noise of a school on its last day, and for a moment the room held everything: the food and the laughter and the plans and the promises and the specific, unrepeatable fact of twelve people who had found each other in a public high school in Tokyo and who were about to scatter into the summer and who trusted, without needing to say it, that they would come back.
+The table laughed. Morimoto-sensei, at the edge, smiled into his convenience store bento. The sound of the laugh—eight voices plus a teacher plus a manga artist plus a club president, layered and overlapping and genuine—filled the classroom and spilled into the hallway and mixed with the ambient noise of a school on its last day, and for a moment the room held everything: the food and the laughter and the plans and the promises and the specific, unrepeatable fact of eleven people who had found each other in a public high school in Tokyo and who were about to scatter into the summer and who trusted, without needing to say it, that they would come back.
 
 ---
 

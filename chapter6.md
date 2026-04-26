@@ -23,9 +23,9 @@ would have called "good form."
 
 Reel into the developing tank. Lid on. Safelight back on.
 
-Developer: Kodak HC-110, dilution B, twenty degrees Celsius, six and a half
+Developer: C-41 color process, thirty-eight degrees Celsius, three and a half
 minutes. He poured the solution in, started his timer, and began the agitation
-cycle—three inversions every thirty seconds, the tank turned end over end with a
+cycle—gentle inversions every thirty seconds, the tank turned end over end with a
 wrist motion that was second nature now, the liquid sloshing inside with a sound
 like a small, contained tide.
 
@@ -35,9 +35,9 @@ the process. The images existed whether you thought about them or not, latent in
 the silver halide, waiting for the chemistry to make them visible. Your job was
 to not ruin them with impatience.
 
-Six and a half minutes. Stop bath. Fixer—eight minutes, agitated at intervals.
-Wash—running water through the tank for ten minutes, the flow steady and cool,
-carrying away the last of the unused silver.
+Three and a half minutes. Bleach. Fix. Stabilizer. Wash—running water through
+the tank for ten minutes, the flow steady and cool, carrying away the last of the
+unused chemistry.
 
 He opened the tank. He pulled the film from the reel—a long, wet strip, the
 negatives glistening, each frame a small inverted window into yesterday. He
@@ -1011,7 +1011,7 @@ fact, fine, but that she was choosing diplomacy over territory.
 
 Pause.
 
-"Yes, I'll make sure the apartment is presentable. Park-ssi, this apartment is
+"Yes, I'll make sure the apartment is presentable. Choi-ssi, this apartment is
 always presentable. I take offense at the implication."
 
 Pause.

@@ -160,7 +160,7 @@ inner pocket. A girl had priorities.
 The kitchen smelled like sesame oil and seaweed when she emerged.
 
 Auntie Choi had laid out a full Korean breakfast at the counter: steamed rice,
-doenjang-jjigae in a stone pot still bubbling from the stove, three kinds of
+kimchi-jjigae in a stone pot still bubbling from the stove, three kinds of
 banchan in small white dishes, and a perfectly fried egg with edges just
 starting to crisp. Beside it, a glass of cold barley tea.
 
@@ -442,9 +442,8 @@ reach his face.
 
 The car was a black Toyota Crown, current model, with tinted windows and an
 interior that smelled like leather conditioner and green tea.
-Hayashi-san—mid-thirties, rectangular glasses, a navy suit that fit like it had
-been cut for a man whose primary job was to be unremarkable—was already behind
-the wheel.
+Hayashi-san—mid-thirties, a navy suit that fit like it had been cut for a man
+whose primary job was to be unremarkable—was already behind the wheel.
 
 "Good morning, Tae-sung-kun."
 
@@ -503,11 +502,11 @@ It was still there. Their last exchange—from months ago, from before the gap
 year, from the week after everything had cracked—sat at the bottom of the thread
 like a fossil preserved in amber.
 
-> **Isabelle:** I'm not angry at you.
+> **Isabelle:** 화나지 않았어. _I'm not angry at you._
 >
-> **Isabelle:** I need you to know that.
+> **Isabelle:** 그건 알아줬으면 좋겠어. _I need you to know that._
 >
-> **Isabelle:** I'm just not ready to talk about it yet.
+> **Isabelle:** 아직 얘기할 준비가 안 됐을 뿐이야. _I'm just not ready to talk about it yet._
 
 He had not replied. He had read the messages—she would have seen the blue
 checkmarks—and he had not replied, because he hadn't known what to say that
@@ -918,7 +917,7 @@ The homeroom teacher arrived. A woman in her forties named Ōtsuka-sensei, with 
 warm face and a voice that split the difference between authority and
 approachability. She welcomed them. She distributed class schedules. She
 explained the cleaning rotation, the shoe-locker assignments, the cafeteria
-procedures, the after-school club recruitment period that would begin next week.
+procedures, the after-school club recruitment period that would begin this week.
 
 And then she said: "Let's do self-introductions. Starting from the front row,
 please stand, give your name, where you're from, and one thing you're interested

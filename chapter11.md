@@ -53,7 +53,7 @@ The VESPER group chat detonated.
 > **유나언니:** 지우야 긴장하지마!!! 너 최고야!!!! 우리 다 최고야!!!!
 
 Isabelle read the messages. She could feel them vibrating with the specific,
-compressed energy of four women who had spent two years training and six months
+compressed energy of four women who had spent three years training and six months
 preparing this release and who were now, at 12:01 AM on a Friday, watching their
 work enter the world and waiting—with the particular terror that only artists
 understood—to find out if the world would care.
@@ -193,7 +193,7 @@ At school, the number existed differently. It existed as Sora.
 Sora arrived at Monday morning homeroom in a state of transcendence.
 
 "Ji-won. Yuki. Hina. Everyone. Listen. 'Somebody Knows.' Sixty-two million. In
-_three days._ That's—that's the fastest-streaming K-pop debut for a rookie group
+_three days._ That's—that's the fastest-streaming K-pop comeback for a rookie group
 in—I checked the records—in _two years._ They're charting in fourteen countries.
 The music video has twenty-eight million views. Jiwoo's solo dance break is
 trending globally. _Globally,_ Ji-won."

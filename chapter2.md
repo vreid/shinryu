@@ -536,7 +536,7 @@ His father replied twelve minutes later: **Good.**
 Caspar closed the family chat and navigated, with the slow inevitability of
 water finding a drain, to his chat with Isabelle.
 
-Their exchange from this morning sat on the screen. Four messages total. Twelve
+Their exchange from this morning sat on the screen. Five messages total. Eight
 words in Korean. The entire emotional infrastructure of a relationship
 compressed into two exchanges that said _I'm here_ and _I know_ and nothing
 else.

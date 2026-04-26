@@ -996,9 +996,9 @@ A pause. A long one. Then:
 
 > **하은언니:** ㅋㅋㅋㅋ 유나 또 폭발했네
 
-> **지우:** 언니. 무서운 게 정상이에요. 무섭다는 건 진심이라는 뜻이에요.
+> **지우:** 지원아. 무서운 게 정상이에요. 무섭다는 건 진심이라는 뜻이에요.
 >
-> _Unnie. Being scared is normal. Being scared means it's real._
+> _Ji-won-ah. Being scared is normal. Being scared means it's real._
 
 Isabelle read Jiwoo's message. She read it three times. The youngest member of
 VESPER—eighteen years old, quiet, fierce, the girl who leaned her head against

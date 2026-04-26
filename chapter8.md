@@ -300,7 +300,7 @@ suspected, exactly how Hina preferred it.
 They crossed the hallway.
 
 Class 1-2's desk formation had been expanded. Kenji had conscripted two
-additional desks, creating a configuration that seated seven—the four boys and
+additional desks, creating a configuration that seated eight—the four boys and
 the three girls, plus Isabelle, who found herself at the head of the formation
 by virtue of being the last to sit and the tallest person in the room, which
 made her the natural focal point of the arrangement regardless of where she
@@ -367,7 +367,7 @@ madeleines?"
 The table went still.
 
 Isabelle heard the silence. She felt it—the specific quality of attention that
-radiated from seven people who had just received a data point that didn't fit
+radiated from eight people who had just received a data point that didn't fit
 their model. Two housekeepers. In Tokyo. For a fifteen-year-old high school
 student.
 

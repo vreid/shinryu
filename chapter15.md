@@ -94,7 +94,7 @@ painted text and stick figure visible from the track.
 
 Isabelle sat beside Caspar, their thighs touching on the concrete bench. She was
 wearing a white cotton dress and canvas sneakers and she had brought a bag
-containing nine éclairs (one per person, plus one for Ren post-race, kept cold
+containing eight éclairs (one per person, Ren's saved for after the race, kept cold
 in an insulated bag with a gel pack because Auntie Choi did not permit pastry to
 travel without temperature control). Caspar was wearing a linen shirt and dark
 shorts and the Leica was around his neck—this was, after all, a visual event,
@@ -330,7 +330,7 @@ leaves in shifting patterns. The humidity had eased slightly—the air still
 thick, but softened by the hour, the shadows lengthening, the first breath of
 evening moving through the park.
 
-Isabelle distributed the éclairs. Nine pastries—chocolate fondant gleaming, the
+Isabelle distributed the éclairs. Eight pastries—chocolate fondant gleaming, the
 crème pâtissière visible in the cross-section where she had cut one to check the
 filling's consistency. She handed them out on squares of parchment paper, the
 same way she had served the tarte au citron, the same choreography of care.

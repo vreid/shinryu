@@ -108,7 +108,7 @@ at himself in the mirror and saw a person who was pretending to be a normal
 student with roughly the same conviction that a wolf might pretend to be a large
 dog.
 
-The kitchen table held breakfast: rice,된장찌개, grilled mackerel, pickled
+The kitchen table held breakfast: rice, doenjang-jjigae, grilled mackerel, pickled
 cucumber, seasoned seaweed, and two slices of the Munich pretzel.
 
 "You ran," Auntie Park said. Not a question.
@@ -1122,7 +1122,7 @@ year.
 
 He turned off the light.
 
-In Minami-Aoyama, twelve kilometers and a hundred unasked questions away,
+In Minami-Aoyama, two kilometers and a hundred unasked questions away,
 Isabelle did the same.
 
 ---

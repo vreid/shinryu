@@ -362,8 +362,8 @@ she moved. She looked up when the door opened.
 
 She was on her feet and across the room in approximately two seconds. The hug
 was warm—Haeun's hugs were always warm, Haeun's entire existence was warm, she
-was the member who cried during sad movies and then denied crying and then cried
-again—and Isabelle received it with the particular gratitude of someone
+was the member who laugh-cried at tarte au citron in the practice room—and
+Isabelle received it with the particular gratitude of someone
 returning to a hug they had missed.
 
 "잘 지냈어?" Haeun asked, pulling back, her hands on Isabelle's shoulders, her
