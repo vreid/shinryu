@@ -227,8 +227,8 @@ She walked to the genkan. Her shoes were on the rack—the white sneakers, clean
 by Auntie Choi. She slipped them on.
 
 The apartment was empty. Auntie Choi had left for Shin-Ōkubo an hour ago.
-Hayashi-san was in his room, working. The silence was total—just the distant hum
-of the building's ventilation system and the faint, rhythmic pulse of Tokyo
+Nakamura-san was in his room, working. The silence was total—just the distant
+hum of the building's ventilation system and the faint, rhythmic pulse of Tokyo
 existing fourteen stories below.
 
 Isabelle opened the front door.

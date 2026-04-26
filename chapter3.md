@@ -645,7 +645,7 @@ is a man without self-respect."
 
 "They already do. That's the problem."
 
-They talked about their tutors—both named Hayashi, both mild-mannered, both
+They talked about their tutors—Hayashi and Nakamura, both mild-mannered, both
 visibly overwhelmed by the responsibility of serving as legal guardians for
 children whose actual parents could purchase the school district.
 

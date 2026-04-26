@@ -180,11 +180,11 @@ Isabelle was born. Every meal was a small, uncomplicated act of love expressed
 through exact measurements and absolutely no sentimentality.
 
 "Your tutor confirmed with the school yesterday," Auntie Choi said, drying her
-hands on the linen towel she kept folded over her left shoulder. "Hayashi-sensei
-will be listed as your local guardian for all administrative purposes. He will
-attend the entrance ceremony. He will sit in the parents' section. He will not
-speak to other parents unless directly addressed, in which case he will say that
-he is a family friend."
+hands on the linen towel she kept folded over her left shoulder.
+"Nakamura-sensei will be listed as your local guardian for all administrative
+purposes. He will attend the entrance ceremony. He will sit in the parents'
+section. He will not speak to other parents unless directly addressed, in which
+case he will say that he is a family friend."
 
 "Got it."
 
@@ -550,8 +550,8 @@ jam taste like a memory.
 
 Isabelle saw the school before she felt it.
 
-Hayashi-san—her Hayashi-san, a different man from Caspar's, younger, with a
-softer face and a habit of humming enka songs under his breath while
+Nakamura-san—her tutor, a different man from Caspar's Hayashi-san, younger, with
+a softer face and a habit of humming enka songs under his breath while
 driving—pulled the car to the curb on the sloping street that ran along the
 school's southern wall. She could see the gate from here: a plain metal
 structure, painted gray, flanked by two stone pillars with the school name
@@ -577,7 +577,7 @@ shoes, and the average Japanese fifteen-year-old girl was maybe five-two,
 five-three. She was going to walk through that gate and every head in the
 courtyard was going to turn, and it wasn't going to be subtle.
 
-"Ready?" Hayashi-san asked.
+"Ready?" Nakamura-san asked.
 
 "Yes."
 
@@ -594,9 +594,9 @@ as if the city itself was withholding judgment.
 She stepped out of the car, swung her bag onto one shoulder, and straightened
 her skirt.
 
-Hayashi-san appeared beside her, tugging at the cuffs of his suit jacket. He was
-nervous—she could tell by the way he kept touching his glasses, pushing them up
-the bridge of his nose even though they hadn't moved. This was his first
+Nakamura-san appeared beside her, tugging at the cuffs of his suit jacket. He
+was nervous—she could tell by the way he kept touching his glasses, pushing them
+up the bridge of his nose even though they hadn't moved. This was his first
 official act as her registered guardian, and the weight of the role—the sheer,
 bureaucratic enormity of standing in for the combined authority of Willem van
 Rijn and Shin Hee-yeon at a public school parents' meeting—was sitting visibly

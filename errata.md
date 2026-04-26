@@ -9,11 +9,11 @@
 
 ### 1. Hayashi-san glasses assigned to wrong person
 
-**Line ~445:** Caspar's Hayashi-san is described with "rectangular glasses."  
+**Line ~445:** Caspar's Hayashi-san is described with "rectangular glasses."
 **Lore (§3, line 136):** Rectangular glasses belong to **Isabelle's**
-Hayashi-san. Caspar's has no glasses.  
-**Fix:** Remove "rectangular glasses" from Caspar's Hayashi-san; add it to
-Isabelle's Hayashi-san description (line ~553).
+Nakamura-san. Caspar's has no glasses. **Fix:** Remove "rectangular glasses"
+from Caspar's Hayashi-san; add it to Isabelle's Nakamura-san description (line
+~553).
 
 ### 2. Doenjang-jjigae made by wrong auntie
 
