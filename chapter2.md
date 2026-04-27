@@ -529,7 +529,7 @@ It worked.
 Caspar took a photo of his classroom—empty desks, blackboard, the cherry trees
 visible through the window—and sent it to the group chat without comment.
 
-His mother replied instantly: **예쁘다!! 🌸**
+His mother replied instantly: **예쁘다!!** _So pretty!!_ 🌸
 
 His father replied twelve minutes later: **Good.**
 

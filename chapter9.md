@@ -728,16 +728,16 @@ than minutes.
 At the corner where they diverged—the intersection of the quiet residential
 street and the broader avenue that ran toward Aoyama—they stopped.
 
-"잘 자, 캐스퍼." The ritual. But different now. The words had the same shape,
-the same Korean characters, the same rhythm of syllables. But the voice
-delivering them had changed. It was softer. Warmer. The voice of a girl whose
-lips were still tingling from contact and whose hand was still holding on and
-whose eyes were looking at a boy who had, fifteen minutes ago, on a street
-corner, with a crow as a witness, kissed her for the first time and the second
-time and would, she was now certain, kiss her many more times, in many more
-places, for a very long time.
+"잘 자, 캐스퍼." _Good night, Caspar._ The ritual. But different now. The words
+had the same shape, the same Korean characters, the same rhythm of syllables.
+But the voice delivering them had changed. It was softer. Warmer. The voice of a
+girl whose lips were still tingling from contact and whose hand was still
+holding on and whose eyes were looking at a boy who had, fifteen minutes ago, on
+a street corner, with a crow as a witness, kissed her for the first time and the
+second time and would, she was now certain, kiss her many more times, in many
+more places, for a very long time.
 
-"잘 자, 이자벨."
+"잘 자, 이자벨." _Good night, Isabelle._
 
 She let go of his hand. Slowly. Her fingers trailing across his palm as they
 separated, the contact breaking at the fingertips, the last point of connection

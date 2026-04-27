@@ -1,7 +1,8 @@
 # SHINRYU: Master Lore Document
 
-> Canonical state as of Chapter 17. All details below are established fact in
-> the story. Chapters 1–17 cover roughly 15 weeks (early April to mid-July).
+> Canonical state as of Chapter 21. All details below are established fact in
+> the story. Chapters 1–21 span roughly 6.5 months (early April to late
+> October).
 
 ---
 
@@ -23,22 +24,24 @@ Sections alternate between the two protagonists and their respective social
 orbits. Major beats land in section endings. Time markers at section openings
 (day, time, location).
 
-**Additional settings (Ch13–17):**
+**Additional settings (Ch13–21):**
+
 - **Shin Entertainment Tokyo Office** (Roppongi, 6-story glass building). Floors
-  include meeting rooms, a VESPER schedule board displaying tour dates. Isabelle
-  works there part-time as "Shin Ji-won, Part-Time Assistant" under supervisor
-  Tanaka Mika.
+  include meeting rooms, a VESPER schedule board. Isabelle works there
+  part-time.
 - **Ryu Retail Ginza** — stockroom in the basement of a 7-story building. Caspar
-  works Saturdays 8 AM–1 PM as "Part-Time Inventory Associate" under supervisor
-  Oda (mid-40s, shaved head, 15 years' experience).
-- **Shin Entertainment HQ** (Cheongdam-dong, Seoul). Practice room 7A (mirror-
-  walled, rubber-matted floor, speakers). The building where VESPER trains and
-  where Isabelle spent her gap year.
+  works Saturdays 8 AM–1 PM.
+- **Shin Entertainment HQ** (Cheongdam-dong, Seoul). Practice room 7A.
 - **VESPER trainee dorm** (14th floor, Gangnam residential building). 4-bedroom.
-  Where Isabelle stayed in Seoul.
-- **Komazawa Olympic Park** — venue for the prefectural track meet (Ch15).
-- **Munich/Bogenhausen** — Caspar visits in Ch16. Helena's house, the Alpenhof
-  hotel (revisited).
+- **Komazawa Olympic Park** — prefectural track meet venue (Ch15).
+- **Munich/Bogenhausen** — Caspar's home city. Helena's house, the Alpenhof
+  hotel (revisited Ch18).
+- **Incheon International Airport** — arrivals hall where Helena officially
+  meets Isabelle (Ch18).
+- **The Shilla Seoul** (Ch19) — private dining room, 23rd floor. Where the
+  mothers' dinner took place.
+- **Tokyo Dome** (Ch20) — VESPER's September concert. Upper bowl, Section 41,
+  Row 27 is where the group sat.
 
 ---
 
@@ -64,9 +67,35 @@ their own choice.
   Phase 2: limited product collab. Phase 3: full campaign Q1 next year. Tour
   billboards read "In partnership with Waldstein Botanicals." The corporate
   merger-romance parallel is tracking.
-- **Helena Waldstein** knows/suspects the relationship (Ch16). When Caspar
-  texts "Isabelle" in her car, she says "Gut" (Good). She told him in Munich:
-  "Du siehst aus, als ob du angekommen bist" (You look like you've arrived).
+- **Helena Waldstein** knows/suspects the relationship (Ch16). When Caspar texts
+  "Isabelle" in her car, she says "Gut" (Good). She told him in Munich: "Du
+  siehst aus, als ob du angekommen bist" (You look like you've arrived).
+- **Helena officially meets Isabelle** at Incheon arrivals hall (Ch18). They
+  speak German. Helena laughs at Isabelle's toaster knowledge. Assesses her
+  fully. The handshake is firm. "Gut." She approves.
+- **Caspar meets VESPER in person** (Ch18) in practice room 7A. Yuna, Minji,
+  Haeun, and Jiwoo each greet him individually. Yuna calls him "the boy who
+  dances in pajama pants." Jiwoo tells him his intention was visible in the
+  choreo video. He promises to take care of Isabelle. "약속합니다." They eat
+  chicken together. Frame 36 is exposed in the practice room.
+- **Shin Hee-yeon appears in person** (Ch19). Five-foot-four, compact, black
+  sharp bob, minimal precise makeup. Wore a white blazer over a black sheath
+  dress. Former dancer. Faces: hazel-green eyes, same cheekbone structure as
+  Isabelle. Operates with calibrated authority.
+- **The mothers' dinner** (Ch19, Shilla Hotel, 23rd floor): Both mothers openly
+  acknowledge they engineered the school placement. Helena proposes: "Leave them
+  alone. The partnership is the partnership. The children are the children."
+  Shin Hee-yeon agrees. The two CEOs discover they enjoy each other's company.
+  They seal the agreement with their word.
+- **Shin Hee-yeon's key question:** "지원아, 행복하니?" (Are you happy?). When
+  Isabelle answers yes, her mother says "그러면 됐어" (Then that's enough) —
+  acknowledging Isabelle as a person, not a project, for the first time.
+- **Caspar's father, Ryu Ji-seok** (Ch20): Takes Caspar to lunch in Munich's
+  financial district at a restaurant where waiters know his order by heart. They
+  eat Schweinshaxe in companionable silence.
+- **Helena's philosophy at dinner:** "My son is not a merger instrument. He's a
+  person. He fell in love with your daughter not because we placed them in
+  proximity but because she is the person he was always going to find."
 
 ### House van Rijn / Shin (Isabelle's family)
 
@@ -86,8 +115,8 @@ their own choice.
   ultra-luxury skincare brand in Asia. Design philosophy: things should look
   "inevitable." Sends shipped goods (jam from Vienna, pretzels from Munich,
   custom toaster from Darmstadt, quarterly shampoo cases). Expresses love
-  through materials. Picked up Caspar at Munich airport in Ch16. Driven by
-  Georg (her Munich driver, 12 years' service).
+  through materials. Picked up Caspar at Munich airport in Ch16. Driven by Georg
+  (her Munich driver, 12 years' service).
 - **Father:** Ryu Ji-seok. Chairman of Ryu BioPharma & Chemical. Communicates in
   sentence fragments and single 👍 emoji. "An extravagant display of emotion."
 - **Uncle Klaus Waldstein** — sent Caspar to the hotel (not named in dialogue
@@ -98,10 +127,10 @@ their own choice.
 
 - **Auntie Choi (Choi Eunji):** Isabelle's housekeeper. Late 50s, center-parted
   bob, navy linen apron. Strict, precise, protective. Cooks Korean breakfasts
-  (galbi, samgyeopsal). Inspects cold chain documentation at
-  Kinokuniya. Starches blouses twice. Coordinates nightly with Auntie Park.
-  Calls Caspar's housekeeper "that woman" (affectionate rivalry). Has a kitchen
-  torch and opinions about meringue browning.
+  (galbi, samgyeopsal). Inspects cold chain documentation at Kinokuniya.
+  Starches blouses twice. Coordinates nightly with Auntie Park. Calls Caspar's
+  housekeeper "that woman" (affectionate rivalry). Has a kitchen torch and
+  opinions about meringue browning.
 - **Auntie Park:** Caspar's housekeeper. Tall, broad-shouldered, immaculate
   perm, cat-print apron. Louder than Auntie Choi. Better cook (by Caspar's
   admission; Auntie Choi suspects). Makes hand-pulled noodles, homemade
@@ -131,15 +160,19 @@ most rooms.
   messages: _"I'm not angry at you. I need you to know that. I'm just not ready
   to talk about it yet."_ He never replied. A year of silence followed.
 - **Gap year in Seoul:** Her mother placed her at Shin Entertainment as a
-  training participant (not a trainee; never going to debut). She trained with
-  VESPER for 10 months: 12–14 hour days, dance at 6 AM, vocal lessons,
-  performance evaluations. She served as a "test body" for choreographer Park
-  Jisoo. Her ballet technique directly influenced Jiwoo's signature extension.
-- **Seoul sensory memories** (Ch17): Cried in a convenience store bathroom at
-  11 PM after a choreographer called her extensions "lazy." Found fragile peace
-  at 5 AM watching sunrise over the Han River.
-- Now in Tokyo, attending Sakuragaoka High, maintaining the secret of her idol
-  training.
+  training participant. She trained with VESPER for 10 months: 12–14 hour days,
+  dance at 6 AM, vocal lessons, performance evaluations. She served as a "test
+  body" for choreographer Park Jisoo. Her ballet technique directly influenced
+  Jiwoo's signature extension.
+- **Seoul sensory memories** (Ch17): Cried in a convenience store bathroom at 11
+  PM after a choreographer called her extensions "lazy." Found fragile peace at
+  5 AM watching sunrise over the Han River.
+- **Second Seoul stay** (Ch19, two weeks in late July): Stayed at the trainee
+  dorm again. Taught Caspar the Seoul she knew — back alleys, service entrances,
+  trainee convenience-store routes. Walked the Cheongcheon Stream. Gave him
+  Pocari Sweat at 10 AM. Their mothers' dinner occurred during this trip.
+- **Now in Tokyo:** Attending Sakuragaoka High, returning for second term
+  (September). Now openly speaks Korean in front of friends (Ch21).
 
 ### Skills & Habits
 
@@ -157,9 +190,8 @@ most rooms.
   competence).
 - **Skincare:** 8-step Waldstein Botanicals clinical regimen (unreleased
   products from her mother's lab). SPF 50 PA++++.
-- **VESPER group chat:** Active daily. The members are her family. They know
-  about Caspar (told Ch12). They know about the relationship (told Ch12). They
-  have met him via video call (Ch12).
+- **Cooking club (Ch20):** Joined in second term. Taught clubmates to make
+  madeleines (two-hour session, results uneven but instructive).
 - **Part-time work:** Works at Shin Entertainment Tokyo office as personal
   assistant/translator. Fetches water for meetings, collates brand partnership
   documents, does Korean-language translation for the Tokyo team. Wears black
@@ -176,9 +208,10 @@ rectangular glasses, drives a Toyota Crown). Three Daikanyama photographs
 
 ### What She's Hiding
 
-Her idol training is known to: Caspar (Ch10), the Aunties, her parents, VESPER
-members, choreographer Park Jisoo. NOT known to: any of her school friends (Yuki
-suspects; Sora, Hina suspect; Kenji, Ren, Daiki do not).
+~~Her idol training was hidden.~~ **FULLY REVEALED to all friends** (Ch21).
+Magazine article trigger. Now openly speaks Korean in front of friends. Her
+exact family wealth scale (billionaire-level corporate dynasty) is also now
+fully known by all eight friends.
 
 ### Relationship Status
 
@@ -213,6 +246,15 @@ increasing frequency.
   mentors: Gerhard (retired ski racer, fitness), Maggie (Australian barista,
   coffee/patience), Frau Lindner (housekeeping, precision). He plans to revisit
   them in Munich during summer break (Ch16).
+- **Alpenhof revisit** (Ch18): Returned with Helena and Georg. Frau Müller
+  recognized him as a person, not staff. Maggie made him a pour-over; Gerhard
+  assessed his posture and made him do 50 push-ups. Frau Lindner examined his
+  hands, identified his photographer's callus, and called his camera work
+  "good." He photographed the service corridors with Tri-X 400.
+- **Second Munich week** (Ch20): Revisited the Alpenhof again. Frau Lindner gave
+  him a small bottle of lavender cleaning solution with a note: "For your
+  closet. So the photographs smell correct." Ate Schweinshaxe with his father in
+  companionable silence.
 - Found VESPER during the hotel year (November, staff corridor, phone,
   algorithm-served dance practice video). Became a devoted secret fan.
 
@@ -223,8 +265,8 @@ increasing frequency.
   work. Fan handle on VESPERspace: **@frame36** (reference to the last frame on
   a roll, always slightly overexposed). He shot Isabelle in color (Portra) at
   Daikanyama because "today was a color day." His photos of her are NOT for
-  display — "These are mine." Photography exhibition held Ch14: 18 images from
-  5 rolls, A4 for display, A5 for sale. 19 of 29 sold sets were his. Vice-
+  display — "These are mine." Photography exhibition held Ch14: 18 images from 5
+  rolls, A4 for display, A5 for sale. 19 of 29 sold sets were his. Vice-
   principal praised his work.
 - **Coffee:** Trained by Maggie. Prefers pour-over (V60). Knows extraction
   times, grind sizes, water temps. Orders pour-over reflexively, even at chain
@@ -253,39 +295,49 @@ walls (blank — waiting for his photographs). Minimal furniture: charcoal linen
 sofa, photography books, paper-shade lamp. Concierge who calls him "Ryu-sama."
 Hayashi-san (mid-30s, drives a Toyota Crown).
 
-### Key Film Frames (Ch6–15)
+### Key Film Frames (Ch6–20)
 
 - **Frame 6 (Daikanyama):** Isabelle facing the camera, open expression, cherry
   blossoms dissolved behind her. Portra 400.
-- **Frame 7 (Daikanyama):** Isabelle's profile, private unguarded moment, looking
-  down the street.
+- **Frame 7 (Daikanyama):** Isabelle's profile, private unguarded moment,
+  looking down the street.
 - **Frame 8 (Daikanyama):** The empty street where she had been standing. Light
   still warm, composition holding around her absence.
 - **Frame 27 (Komazawa, Ch15):** Ren post-race, real smile.
-- **Frame 34 (Ch15):** Self-portrait with Isabelle. Shot blind at arm's length.
-  Composition unknown until developed.
-- **Frame 35 (Ch15):** Isabelle walking away, raising hand in dancer's extension.
-- **Frame 36:** Still held in reserve. "아직 안 끝났으니까" (Because it's not
-  over yet).
+- **Frame 34 (Ch20):** Developed and printed on fiber-based paper, 8x10. The
+  blind self-portrait with Isabelle at Komazawa. Imperfect composition, soft
+  focus, but their smiles are clear. Given to Isabelle on the first day of
+  second term. She carries it in her bag. Caspar considers it both his best and
+  worst photograph—the contradiction being the point.
+- **Frame 35 (Ch15):** Isabelle walking away, raising hand in dancer's
+  extension.
+- **Frame 36 (Ch18):** The last frame on the Daikanyama roll. Exposed in the
+  VESPER practice room in Seoul. Wide shot of the whole room — Yuna, Minji,
+  Haeun, Jiwoo, Isabelle, Caspar. The composition was left to instinct; what
+  mattered was the inevitability of the space. Tri-X 400 (actually the
+  Daikanyama roll's final frame, but he carried it through Munich, Incheon, into
+  Seoul).
+- **Frame 1 (Ch18):** First frame on a new roll loaded in the practice room.
+  Portra 400, color. Blind group selfie at arm's length (like Frame 34), six
+  faces. The beginning of a new roll.
 
 ### What He's Hiding
 
-His VESPER fandom is known to: Isabelle (Ch10, riverbank), VESPER members (Ch12,
-via video). NOT known to: Sora (strongly suspects), Daiki (saw app), Hina
-(likely suspects), Yuki (likely suspects), Kenji (no idea). His family wealth
-is partially exposed (housekeeper slips, food quality) but not the full scale.
-His part-time work at Ryu Retail is known to Isabelle only among school friends.
-Helena now knows/suspects the relationship (Ch16).
+His VESPER fandom is known to: Isabelle (Ch10 riverbank, also his choreo video
+is now known to all friends as of Ch21), VESPER members (Ch12, Ch18 in person).
+Now KNOWN to all school friends (Ch21). His family wealth is FULLY known to the
+entire lunch group (Ch21). His part-time work at Ryu Retail is still known only
+to Isabelle among school friends.
 
 ### Relationship Status
 
-**Dating Isabelle** as of Ch9. He waited at the school gate for her (Ch9). She
-linked arms with him in public (Ch9). He said "not yet" in the darkroom (Ch7)
-and "now" on the street corner (Ch9). Official via LINE. They walk through the
-school gate together daily. Physical intimacy has progressed: hand-holding (Ch8),
-first kiss (Ch9), she put her hand on his chest in the darkroom (Ch7), kitchen
-kissing (Ch14). She calls him "남자친구" (boyfriend), he calls her "여자친구"
-(girlfriend).
+**Dating Isabelle** as of Ch9. They walk through the school gate together daily,
+hold hands in public. First kiss Ch9. They said "사랑해" for the first time in a
+LINE exchange at midnight during the Seoul trip (Ch19) — Caspar initiated after
+the mothers' dinner, quoting Helena's words: "she is the person he was always
+going to find." The ritual is now "잘 자이자 좋은 아침, 남자친구/여자친구" (Good
+night and good morning) used since time-zone separation (Ch16); spoken aloud in
+the Tokyo Dome concourse (Ch20) after the concert.
 
 ---
 
@@ -298,16 +350,33 @@ globally). **Fan community:** VESPERspace app. Lightsticks. Photocard trading.
 Fan chants. **Training:** 3 years of scouting and training from hundreds of
 candidates. Shin Hee-yeon values "endurance" over talent.
 
-**Asia Tour 2026 announced (Ch17):** Billboards across Seoul, 50 bus ads,
-subway screens. Tokyo Dome confirmed September, 55,000 seats. Sponsor: Waldstein
+**Asia Tour 2026 announced (Ch17):** Billboards across Seoul, 50 bus ads, subway
+screens. Tokyo Dome confirmed September, 55,000 seats. Sponsor: Waldstein
 Botanicals.
 
-**"Glass Hour" Tokyo Dome Remix:** New choreography by Park Jisoo. Slower, more
-expansive, designed for stadium scale. Ballet foundations visible to Isabelle.
-The extension motif (from Isabelle) is now developed as a repeated theme.
+**VESPER live at Tokyo Dome (Ch20):** September 20th. Upper bowl, Section 41,
+Row 27 where the group sat. Opened with "Glass Hour" remix — Jiwoo's solo
+extension in single white spotlight. Yuna sang the ballad solo in blue
+spotlight. Fifty-five thousand lightsticks. The setlist: "Glass Hour" remix →
+"Somebody Knows" → b-sides → new songs → Yuna ballad → encore "Glass Hour"
+original. The choreography assistant credit (Shin Ji-won) appeared on page 14 of
+the program booklet. Isabelle's name was printed in a building of fifty-five
+thousand people.
 
 **Isabelle's choreography credit:** "Choreography Assistant: Shin Ji-won" in the
-Tokyo Dome program notes. Personally requested by Park Jisoo.
+Tokyo Dome program notes (page 14). Personally requested by Park Jisoo.
+
+**In-person meeting with Caspar (Ch18):** Took place in practice room 7A.
+
+- **Yuna:** Called him "the boy who dances in pajama pants." Palm-to-palm
+  greeting. Said the choreo video was a "national treasure," would not delete
+  it.
+- **Minji:** Firm handshake. "Good posture."
+- **Haeun:** Took both his hands. "We finally meet!"
+- **Jiwoo:** Told him his dancing was impressive because of intention — he was
+  dancing to communicate to someone, not to execute. Confirmed it was Isabelle.
+  Extended her open palm; Caspar placed his hand in hers. "Please take care of
+  her." / "I promise."
 
 ### Member Profiles
 
@@ -318,7 +387,8 @@ Tokyo Dome program notes. Personally requested by Park Jisoo.
   everyone. Cries at sad movies, denies it, cries again. Corrects Isabelle's
   Korean grammar. The calm anchor. Lost an arm-wrestling match to Isabelle
   twice. Sighs at Yuna — "the sigh of a leader who had been sighing at Yuna for
-  three years and whose sighs had become, through repetition, a form of affection."
+  three years and whose sighs had become, through repetition, a form of
+  affection."
 - Notable: Her body roll in "Glass Hour." The turn sequence in "Somebody Knows"
   (originated from Isabelle's ballet). Said "good form" about Caspar's choreo
   video.
@@ -329,14 +399,15 @@ Tokyo Dome program notes. Personally requested by Park Jisoo.
 - Personality: Explosive, excitable, chronically impatient. The group's chaos
   engine. Cannot wait for anything. Deeply loyal. Operates on instinct and
   warmth.
-- Notable: Her bridge in "Somebody Knows" (took 3 takes; the engineer just
-  nodded on the perfect one). Stole Isabelle's custard cream, left IOU with cat
-  doodle. Recognized Isabelle at the fan event high-five (Ch11). Texted Caspar
-  directly (Ch12): "울리면 도쿄 온다" (If you make her cry, I'm coming to
-  Tokyo). Asked for his choreo video. Sending him a signed Type A photocard.
-  Approved him. Disguise style: oversized gray hoodie with faded Busan convenience
-  store chain logo, black cap, sunglasses. Broke through arrivals barrier to hug
-  Isabelle (Ch17).
+- Notable: Her bridge in "Somebody Knows" (took 3 takes). Stole Isabelle's
+  custard cream, left IOU with cat doodle. Recognized Isabelle at the fan event
+  high-five (Ch11). Texted Caspar directly (Ch12): "울리면 도쿄 온다" (If you
+  make her cry, I'm coming to Tokyo). Asked for his choreo video. Approved him.
+  Broke through arrivals barrier to hug Isabelle (Ch17).
+- **In-person meeting with Caspar (Ch18):** Called him "the boy who dances in
+  pajama pants." Palm-to-palm greeting (3 seconds). Told him the choreo video
+  was a "national treasure" and would never be deleted. Wrapped her arm around
+  Isabelle's waist during the emotional moment.
 
 **Haeun (하은)**
 
@@ -358,6 +429,10 @@ Tokyo Dome program notes. Personally requested by Park Jisoo.
   is one of the most-referenced images in K-pop fan art. Watched Caspar's choreo
   video three times without speaking ("the highest compliment"). Recognized
   Isabelle by TOUCH at the high-five event — felt the calluses on her palm.
+- **In-person greeting of Caspar (Ch18):** Praised his intention — "When you
+  danced, there was someone you were trying to show... That intention was
+  visible in every movement." Confirmed it was Isabelle. Extended an open palm;
+  Caspar placed his hand in hers. "Please take care of her." / "I promise."
 - Wisdom: "Being scared is normal. Being scared means it's real."
 - Greeting style (Ch17): Leans forehead against Isabelle's collarbone — the
   specific point of contact from training days. "This is the taste. The taste of
@@ -369,8 +444,8 @@ Not a member. Trained with them for 10 months. Considers them family. They
 consider her family. She receives their group chat, communicates daily. Her body
 contributed to their choreography (Jiwoo's extension, Minji's turn in "Somebody
 Knows"). She has told them everything about Caspar (Ch12). They have approved.
-She is credited as "Choreography Assistant: Shin Ji-won" in the Tokyo Dome
-program notes.
+They have met him **in person** (Ch18). She is credited as "Choreography
+Assistant: Shin Ji-won" in the Tokyo Dome program notes.
 
 ---
 
@@ -380,7 +455,9 @@ All eight eat lunch together daily at a desk formation in Class 1-2. Sora calls
 them "the table." They attended the VESPER fan event together (Ch11). They
 attended the prefectural track meet together (Ch15). They held the photography
 exhibition fundraiser together (Ch14). The final first-term lunch had 11 people
-including Morimoto-sensei, Fujita-senpai, and Nakamura Aoi (Ch16).
+including Morimoto-sensei, Fujita-senpai, and Nakamura Aoi (Ch16). They went to
+the VESPER Tokyo Dome concert together (Ch20). They know the full truth about
+both families as of Ch21.
 
 ### Isabelle's Friends (Class 1-3)
 
@@ -391,14 +468,14 @@ including Morimoto-sensei, Fujita-senpai, and Nakamura Aoi (Ch16).
   precise, minimal sentences. Runs a mental dossier on everyone. Detects
   patterns others miss. Ghost-smile is her rarest expression (now deployed with
   increasing frequency).
-- What she knows: Isabelle is hiding something significant. She has traced the
-  food quality, the housekeeper, the Japanese fluency, the wealth indicators,
-  and the Caspar connection. She asked about the "two-week course" by
-  name-dropping Meilleur Ouvrier de France (Ch10). She is approaching the truth
-  but chooses not to push.
-- Notable: Acquired a VESPER lightstick at the fan event. Carries it "with the
-  same precise, neutral grip she used for everything." Organized the exhibition
-  sales with a color-coded, formula-driven spreadsheet.
+- **What she knew (Ch21):** Knew since week two. She traced the data — the
+  Meilleur Ouvrier de France reference, the housekeeper, the Japanese fluency,
+  the Aoyama apartment, the madeleines. She chose not to push because "it wasn't
+  her truth to take." Said this to Sora when the reveal happened. Isabelle never
+  confirmed until Ch21, but Yuki knew.
+- Notable: Acquired a VESPER lightstick at the fan event. Organized the
+  exhibition sales with a color-coded spreadsheet. Wrote nothing in her program
+  booklet during the Tokyo Dome ballad — simply watched, in wonder.
 
 **Yamamoto Sora**
 
@@ -406,32 +483,40 @@ including Morimoto-sensei, Fujita-senpai, and Nakamura Aoi (Ch16).
 - Personality: Trend-chaser, fashion-forward, K-pop obsessed. Performs
   frame-by-frame choreography analysis. Evangelical about VESPER. Cried at the
   fan event. Has not removed her wristband.
-- What she knows: Ji-won is connected to Ryu-kun. Ji-won evaluates VESPER with
-  suspicious precision. Ryu-kun knows more about K-pop than he admits. She
-  strongly suspects Caspar is a fan. She does NOT know about Isabelle's idol
-  training. She suspects Isabelle has "connections" in Seoul (Ch16).
-- Notable: Kenji's arm around her shoulders at the fan event (happened
-  naturally, twice). Her bias: Seo Yuna. High-fived Yuna at the event.
-  Asked Isabelle to get her a signed VESPER album from Seoul (Ch16).
+- **What she knows (Ch21):** Learned when a _W Korea_ magazine article revealed
+  Shin Hee-yeon has a daughter named Shin Ji-won who works part-time at Shin
+  Entertainment Tokyo. Sora's brain performed the calculation in real time in
+  Class 1-3. She confronted Isabelle directly: "Is she your mother?" The reveal
+  was emotional — tears, a hug, the Korean profanity "나쁜 년아" (you terrible
+  woman) used as affection. Sora accepted the truth with understanding, not
+  anger, realizing Isabelle had disguised herself in the fan line for _her_.
+- **Kenji + Sora:** His arm was around her shoulders at the concert (Ch20),
+  deliberately, not tentatively. In the train home after the concert she rested
+  her head on his shoulder.
+- Notable: Her bias: Seo Yuna. High-fived Yuna at the event. Received a signed
+  VESPER album from Isabelle (Ch21) — limited edition "Somebody Knows," signed
+  by all four members with a message from Isabelle. Held it against her chest.
 
 **Ogawa Hina**
 
-- Role: The watcher. Quiet observer. Sees shapes, not textures. Has moved from
-  observer to declared participant (Ch15).
-- Personality: Sits in back. Speaks rarely but precisely. Appears and disappears
-  without announcement. Her neutrality was her most trustworthy trait.
-- What she knows: The most perceptive of the three. Identified the "expensive
-  shape" of Isabelle's hidden life in Ch8. Noted the VESPER connection in Ch11.
-  Saw Isabelle crying at the fan event. Confronted Isabelle in Ch8: "You didn't
-  learn this in two weeks." Declared herself inside the group in Ch15 with
-  individual observations about each member.
-- Family (Ch15): Mom works at convenience store, dad drives delivery truck,
-  little brother (8). Lives in 2LDK in Nakano. School shoes from sale bin at
-  Shimamura.
-- Notable: Volunteered for the fan event ("I'm curious about all of you
-  experiencing it"). Smiled at Isabelle after the event (real, rare smile). Said
-  "This is nice" in Ch12 — the most she'd ever said about belonging. Gave precise
-  observations about each person in Ch15.
+- Role: The watcher who stepped inside.
+- Personality: Sits in back. Speaks rarely but precisely. Her neutrality was her
+  most trustworthy trait; now she deploys engagement with the same precision.
+- **What she knew (Ch21):** Knew since the Shibuya fan event — saw Yuna
+  recognize Isabelle in the high-five line, saw Isabelle's micro-headshake. She
+  waited patiently for the truth to arrive on its own schedule. She said, when
+  Sora found out: "We said nothing because we love you... the truth was hers to
+  give, not ours to take."
+- **Summer growth (Ch20):** Got a part-time job at a bookstore near her home.
+  Shelved books for 6 weeks, read 47 of them. Started writing essays about
+  observation — "what you see when you watch things closely." Offered to show
+  Isabelle and Caspar sometime.
+- **Voice at the table:** Increasingly present. She gave Kenji's speech-level
+  affirmation in the shoe-locker scene ("cool"). She smiled the rare smile at
+  the end of the group reveal — "the smile of someone who had watched a shape
+  resolve from blur into clarity."
+- Notable: Volunteered for the fan event. Smiled at Isabelle after the event.
+  Gave precise observations about each person in Ch15.
 
 ### Caspar's Friends (Class 1-2)
 
@@ -441,13 +526,20 @@ including Morimoto-sensei, Fujita-senpai, and Nakamura Aoi (Ch16).
 - Personality: Loud, enthusiastic, comically expressive. Class clown with
   genuine emotional depth. Occasionally says things "that make your chest hurt."
   Cannot maintain a filter. Tracks Caspar's almost-smiles. Deeply loyal.
-- What he knows: Caspar and Isabelle knew each other in Switzerland. They're
-  together. That's it. No awareness of the wealth scale, the VESPER connection,
-  or the corporate families.
-- Notable: Invented HCCL (Hallway Cleaning Crew Lunch). Made a hand-painted
-  banner for Ren's track meet: "いけ！蓮！走れ！" (GO! REN! RUN!) with stick
-  figure. Put his arm around Ren's shoulders after the race (Ch15). Converted
-  to VESPER fandom. His ears turn pink ("arterial" shade) around Sora.
+- **What he knows (Ch21):** Learned via Sora's text during a history class. His
+  face drained of color. At lunch, processed everything with deliberate
+  restraint — "Cool." He then gave the "shoe-locker speech": "You could own this
+  school... And you'd still be the guy who taught me what good galbi-jjim tastes
+  like and the girl who brought me madeleines before she knew my last name. The
+  table holds." He then asked for a signed VESPER album. Isabelle already had
+  one for him — limited edition, four signatures plus her personal note: "To
+  Kenji, who is the loudest and kindest person Ji-won has ever met."
+- **Kenji + Sora (Ch20):** His arm around her shoulders at the Tokyo Dome
+  concert, deliberately and not tentatively. She rested her head on his shoulder
+  on the train home.
+- Notable: Invented HCCL. Made a hand-painted banner for Ren's track meet.
+  Converted to VESPER fandom. His ears turn pink ("arterial") around Sora. Said
+  "너무한다" (that's too much) in Korean when he saw the signed album.
 
 **Ito Ren**
 
@@ -462,37 +554,48 @@ including Morimoto-sensei, Fujita-senpai, and Nakamura Aoi (Ch16).
   broke 2 minutes). 1500m: 5th place. New carbon-fiber spikes (acquired through
   the photography exhibition fundraiser, anonymously) resolved his lateral ankle
   wobble.
-- First used Isabelle's first name in Ch14: "Isabelle." — not Shin-san, not
-  Ji-won.
-- Notable: Said "It's a good song" about "Somebody Knows" and "The bridge is
-  strong" about Yuna's vocals. Eats in 4 bites. The word "thank you" from Ren
-  carries the weight of an entire paragraph.
+- **Summer results** (Ch20): Ran a 1:56 at the regional invitational in July.
+  Said the heat was "informative." Missed the Tokyo Dome concert due to a
+  national junior selection trial training camp — the most important race of the
+  year.
+- **Knowledge (Ch21):** Processed the wealth reveal with the same economy he
+  applies to everything: "Makes sense." — the madeleines, the housekeeper, the
+  Aoyama apartment all connected. "This is the piece that connects them."
+- First used Isabelle's first name in Ch14: "Isabelle."
+- Notable: Said "It's a good song" about "Somebody Knows." Eats in 4 bites.
 
 **Kuroda Daiki**
 
-- Role: The analyst. Programmer (building a dungeon crawler in Unity).
-- Personality: Observational, data-driven. Tracks Caspar's "smile frequency"
-  (300% increase). Analyzes food like a scientist (Maillard reactions, collagen
-  breakdown). Takes notes on music video visual effects. Always on his phone.
-- What he knows: Nothing about the hidden lives. But he spotted Caspar on the
-  VESPERspace app (told Sora via Aoi).
-- Notable: Spotted the VESPER fan app on Caspar's phone — the intel that started
-  the "is Ryu a fan?" thread. Analyzed Isabelle's tarte au citron meringue
-  caramelization pattern with scientific precision.
+- Role: The analyst. Programmer (building a dungeon crawler in Unity; accepted
+  to a second programming camp in September).
+- Personality: Observational, data-driven. Tracks Caspar's "smile frequency."
+  Analyzes food like a scientist (Maillard reactions, collagen breakdown).
+  Always on his phone.
+- **What he knows (Ch21):** Had a "working hypothesis" about Isabelle's identity
+  — data-driven, based on corporate data cross-referencing. Had not confirmed
+  it. When the reveal happened: "The organizational structure is consistent."
+  Also learned Caspar's family identity (Ryu BioPharma) in real time at the
+  lunch table. Noticed Caspar works in his own family's stockroom.
+- Notable: Purchased VESPER limited-edition lightstick for "engineering
+  analysis." Spotted the VESPER fan app on Caspar's phone. At the Tokyo Dome
+  concert he disassembled the lightstick to examine the Bluetooth LE chip, then
+  reassembled it. Was seen by his sister waving it in his room; denied it
+  strenuously. Waved his lightstick at the concert with the "Daiki wave" —
+  small, controlled, ergonomic.
 
 ### Additional Group Members
 
 **Nakamura Aoi (1-2)** — Manga artist. Sold cat-themed illustrations at the
-photography exhibition, donated proceeds to athletics fund. Has been orbiting the
-group's edge. Spotted Caspar on VESPERspace app (told Sora).
+photography exhibition, donated proceeds to athletics fund. Has been orbiting
+the group's edge. Spotted Caspar on VESPERspace app (told Sora).
 
 **Fujita Kōhei (3rd year)** — Photography club president. Called Caspar's Yanaka
-  series "the best work this club has ever produced." Calm, methodical. Preparing
-  for university entrance exams.
+series "the best work this club has ever produced." Calm, methodical. Preparing
+for university entrance exams.
 
 **Morimoto-sensei** — Homeroom teacher (1-2). Thin, wiry, clicks his pen while
-  speaking. Attended the final combined lunch (Ch16). Observed the group with
-  quiet appreciation.
+speaking. Attended the final combined lunch (Ch16). Observed the group with
+quiet appreciation.
 
 ---
 
@@ -506,10 +609,33 @@ group's edge. Spotted Caspar on VESPERspace app (told Sora).
 - **Frame 6/7/8 (Daikanyama prints)** — The photographs of Isabelle: face,
   profile, absence. Given to her. "They were always yours." Now mounted on her
   bedroom wall in three white frames (Ch14).
-- **Korean language** — Their private register. All intimate exchanges happen in
-  Korean. "잘 자, 남자친구/여자친구" is the nightly ritual.
-  "잘 자이자 좋은 아침" (Good night and good morning) used during time-zone
-  separation (Ch16).
+- **Korean language** — Their private register. Intimate exchanges happen in
+  Korean. The nightly ritual: "잘 자이자 좋은 아침, 남자친구/여자친구" (Good
+  night and good morning). First spoken during time-zone separation (Ch16);
+  spoken aloud in the Tokyo Dome concourse (Ch20). Caspar said "사랑해" first in
+  a LINE message at midnight during the Seoul trip (Ch19).
+- **"사랑해" (I love you)** — First said by Caspar in a LINE message at 11:47 PM
+  in Seoul, quoting Helena's words. Isabelle replied immediately. The word
+  became the river's name.
+- **Frame 34 (printed)** — 8x10 fiber-based print, given to Isabelle on the
+  first day of second term. She carries it in her bag. Imperfect, soft focus,
+  but "their smiles were clear."
+- **The Toaster** — Helena's Darmstadt-designed custom toaster. Only successful
+  prototype after 11 rejected ones. The rejected ones: too shiny, too round, one
+  looked "aspirational" instead of "inevitable." Isabelle knows this detail;
+  Helena was shocked.
+- **Frau Lindner's lavender cleaning solution** — Gifted to Caspar at his second
+  Alpenhof visit (Ch20). Note: "For your closet. So the photographs smell
+  correct."
+- **VESPER signed albums (Ch21)** — Two copies of "Somebody Knows" limited
+  edition, signed by all 4 members, brought from Seoul by Isabelle. One for
+  Kenji (inscription: "To Kenji, who is the loudest and kindest person Ji-won
+  has ever met. Thank you for taking care of our people. — With love, VESPER +
+  Ji-won"). One for Sora.
+- **W Korea magazine** — The reveal vector (Ch21). Page 47, feature on Shin
+  Entertainment. Caption: "Shin Hee-yeon, CEO of Shin Entertainment, with her
+  daughter, Shin Ji-won (not pictured), who serves as a part-time assistant at
+  the company's Tokyo office." Left on a desk. Migrated three classrooms.
 - **"여기서부터" (From here)** — First said by Isabelle when she took his hand
   (Ch8). Written in Caspar's notebook (Ch9). The story's thesis statement.
 - **"Not yet" → "Now"** — Isabelle said "not yet" about talking (Ch2). Caspar
@@ -530,8 +656,8 @@ group's edge. Spotted Caspar on VESPERspace app (told Sora).
   support fund → track team equipment. Designed by Isabelle. Anonymous by
   design. 43,500 yen raised. 19 of 29 print sets sold were Caspar's.
 - **Willem van Rijn's quote** — "Money is a tool. A tool is only useful when
-  you're holding it. The moment you show it, it becomes a weapon." Echoes through
-  the exhibition fundraiser morality.
+  you're holding it. The moment you show it, it becomes a weapon." Echoes
+  through the exhibition fundraiser morality.
 - **Kenji's banner** — Hand-painted on a bedsheet: "いけ！蓮！走れ！" (GO! REN!
   RUN!) with stick figure drawing of running Ren.
 - **Ren's spikes** — Black with white stripe, carbon-fiber plate, 38,000 yen.
@@ -540,8 +666,8 @@ group's edge. Spotted Caspar on VESPERspace app (told Sora).
   like you've arrived). A symbolic line marking Caspar's transformation.
 - **Pâte sucrée** — Isabelle taught Caspar to make it (Ch14). Cold butter cubed
   1cm, flour sifted twice, mixed with fingertips.
-- **Paris-Brest** — Isabelle's final first-term pastry (Ch16). Ring-shaped choux,
-  praline mousseline cream. Made at 5 AM, transported in insulated bag.
+- **Paris-Brest** — Isabelle's final first-term pastry (Ch16). Ring-shaped
+  choux, praline mousseline cream. Made at 5 AM, transported in insulated bag.
 
 ---
 
@@ -591,93 +717,104 @@ group's edge. Spotted Caspar on VESPERspace app (told Sora).
 - **Paris-Brest**
   - Who makes it: Isabelle
   - Context: Final first-term combined lunch (Ch16). Ring-shaped choux, praline
-    mousseline cream. Auntie Choi supervised the torching of the meringue and had
-    opinions about uneven browning.
+    mousseline cream. Auntie Choi supervised the torching of the meringue and
+    had opinions about uneven browning.
 
 ---
 
 ## 9. CURRENT STATUS OF SECRETS
 
-- **Isabelle trained with VESPER**
-  - Who knows: Caspar, Auntie Choi, parents, VESPER members, choreographer Park
-    Jisoo, Shin Ent Tokyo staff (implicitly, as Isabelle works there)
-  - Who doesn't: Yuki (suspects and approaching), Sora (suspects "connections"),
-    Hina (sees the shape), Kenji/Ren/Daiki (no idea)
-- **Caspar is a secret VESPER fan**
-  - Who knows: Isabelle, VESPER members (via video)
-  - Who doesn't: Sora (strongly suspects), Daiki (saw app), Hina (likely
-    suspects), Yuki (likely suspects), Kenji (no idea)
-- **Both families are billionaire corporate dynasties**
-  - Who knows: Both protagonists, the Aunties, Nakamura-san, Hayashi-san, the
-    doormen
-  - Who doesn't: Yuki (suspects wealth scale), Hina (knows it's "expensive"),
-    Sora/Kenji/Ren/Daiki (know something is off but not the scale)
+- **Isabelle trained with VESPER / is Shin Hee-yeon's daughter**
+  - ~~Previously hidden.~~ **FULLY REVEALED to all eight friends** (Ch21).
+  - Trigger: _W Korea_ magazine article left on a desk in Class 1-3, page 47,
+    caption mentioning Shin Hee-yeon's daughter Shin Ji-won. Sora read it,
+    confronted Isabelle directly. The reveal cascaded to all friends at lunch.
+  - Emotional resolution: Sora cried, hugged, said "나쁜 년아" (affectionate).
+    Yuki disclosed she'd known since week two. Hina disclosed she'd known since
+    the fan event. Kenji gave the "shoe-locker speech." The group affirmed: "The
+    table holds."
+- **Caspar is a VESPER fan / Ryu BioPharma heir**
+  - ~~Previously partially hidden.~~ **FULLY REVEALED** in the same lunch
+    conversation (Ch21). Kenji connected the dots from VESPER to Shin
+    Entertainment to Caspar's family. Caspar confirmed his father is Ryu
+    Ji-seok, chairman of Ryu BioPharma, and that he works Saturdays at Ryu
+    Retail Ginza in his own family's stockroom.
 - **Parents arranged their school placement**
-  - Who knows: Both protagonists, the Aunties
-  - Who doesn't: All school friends
-- **Caspar worked as a hotel bellboy**
-  - Who knows: Isabelle, Kenji (knows about "the hotel" as a café reference —
-    partial cover)
-  - Who doesn't: Yuki, Sora, Hina, Ren, Daiki
-- **Isabelle's mother runs Shin Entertainment**
-  - Who knows: Nobody at school (she's been vague about "my mother's friend")
-  - Who doesn't: All school friends
+  - ~~Previously hidden from friends.~~ **Now revealed to both protagonists**
+    from their parents' own mouths at the Shilla Hotel dinner (Ch19).
+  - The mothers **openly acknowledged** the placement. Helena proposed they
+    "leave them alone." Both mothers agreed: the partnership is the partnership;
+    the children are the children.
+- **The "Somebody Knows" choreography video**
+  - Known to VESPER members (they watched it). Yuna declared it a "national
+    treasure." Not publicly leaked as of Ch21.
 - **Waldstein Botanicals × VESPER partnership**
-  - Who knows: Isabelle (saw document), Caspar (told by text)
-  - Who doesn't: All school friends
-- **Helena knows about the relationship**
-  - Confirmed in Ch16. She said "Gut" (Good) when Caspar texted Isabelle.
-- **Ren's financial situation**
-  - Who knows: The full lunch group (he disclosed it at the table in Ch13)
-  - Context: 38,000 yen competition spikes needed, parents can't afford them.
-    Resolved through anonymous exhibition fundraiser.
+  - Still known only to Isabelle and Caspar among the main cast. The partnership
+    proceeds independently of the children's relationship as agreed by the
+    mothers.
 
 ---
 
 ## 10. UNRESOLVED / FUTURE PLOT THREADS
 
-1. ~~**The full reveal to friends**~~ — Progressing. Yuki is approaching the
-   truth (Meilleur Ouvrier de France by name). Hina has declared herself inside.
-   Soro suspects "connections." The reveal will be explosive when it happens.
-2. **Extended family members** — Uncle Bastiaan, Uncle Shin Dong-il, Uncle
+### Resolved (formerly open threads now closed)
+
+1. ~~**The full reveal to friends**~~ — COMPLETED (Ch21). Triggered by _W Korea_
+   magazine. All eight friends now know Isabelle trained with VESPER and is Shin
+   Hee-yeon's daughter. All eight now know Caspar is Ryu BioPharma heir and
+   VESPER fan. The table held.
+2. ~~**VESPER meeting Caspar in person**~~ — COMPLETED (Ch18). Practice room 7A.
+   Chicken was eaten. Frame 36 exposed.
+3. ~~**The parents' meeting**~~ — COMPLETED (Ch19). Shilla Hotel. Both mothers
+   openly acknowledged the arrangement and agreed to leave the children alone.
+4. ~~**Frame 36**~~ — EXPOSED (Ch18). Last frame of the Daikanyama roll, shot in
+   the VESPER practice room in Seoul. Wide shot of all six people.
+5. ~~**Caspar visiting hotel mentors**~~ — COMPLETED (Ch18). Revisited Frau
+   Müller (recognized him as a person), Maggie (pour-over), Gerhard (50
+   push-ups), Frau Lindner (examined his hands, identified photographer's
+   callus). Photos taken of service corridors.
+6. ~~**Sora's signed VESPER album**~~ — FULFILLED (Ch21). Isabelle already had
+   one prepared — limited edition "Somebody Knows," signed by all four members,
+   with personal inscription.
+7. ~~**The full "사랑해" exchange**~~ — COMPLETED (Ch19). Caspar said it first
+   in LINE at midnight in Seoul. Isabelle replied. Spoken aloud in the Tokyo
+   Dome concourse (Ch20).
+8. ~~**Helena meeting Isabelle**~~ — COMPLETED (Ch18). Incheon arrivals hall.
+   German dialogue. Toaster knowledge leveraged. Full approval given: "Gut."
+9. ~~**Shin Hee-yeon meeting Caspar**~~ — COMPLETED (Ch19). Shilla Hotel dinner.
+   Called her "희연 이모님" (Aunt Hee-yeon). Approved.
+10. ~~**The Tokyo Dome concert**~~ — ATTENDED (Ch20). Seven tickets. Upper bowl.
+    Row 27. Sora wept. Kenji held her. The group rode the train home together.
+
+### Still Open / Long-Term
+
+1. **Extended family members** — Uncle Bastiaan, Uncle Shin Dong-il, Uncle
    Klaus, Aunt Ryu Myung-hee have not appeared.
-3. ~~**Isabelle's part-time work at Shin Ent Tokyo branch**~~ — NOW DEPICTED
-   (Ch13).
-4. ~~**Caspar's part-time work at Ryu Retail Ginza**~~ — NOW DEPICTED (Ch14).
-5. **Language exchange** — Partially depicted; Isabelle teaches Caspar baking
-   (French technique in Korean context).
-6. **Friends getting jobs at family empires** — Implied future plot arc.
-7. ~~**School exhibition**~~ — COMPLETED (Ch14). 43,500 yen raised. Vice-
-   principal approved. Ren's spikes acquired anonymously.
-8. **VESPER meeting Caspar in person** — IMMINENT. Isabelle told the members
-   about him (Ch12). Yuna demanded an in-person introduction. Isabelle plans to
-   take Caspar to the practice room in Seoul (Ch16-17). 5 days away.
-9. **The "Somebody Knows" choreography video** — Still out there. Could leak.
-10. **Auntie Choi and Auntie Park** — ongoing comedic/warm subplot. Now
-    coordinating across time zones.
-11. **Kenji + Sora** — Gentle progression. Walking together at Komazawa, choreo
-    lesson (she touched his hip to correct position, he blushed). Still not
-    explicit.
-12. **Hina's arc** — COMPLETED a major step. Moved from observer to declared
-    participant (Ch15). She told each person what she sees in them. Her knowledge
-    remains the most dangerous — still undeclared about C&I's secrets.
-13. **The parents' reaction** — Helena now knows/suspects (Ch16). Other parents
-    have not been formally informed. The Aunties are still the parallel diplomatic
-    channel.
-14. **Summer** — Now in progress. Isabelle in Seoul (2 weeks). Caspar in Munich
-    (1 week) then Seoul (2.5 weeks). They plan to meet in Seoul together.
-15. **Caspar visiting hotel mentors** — Planned but not yet depicted. Gerhard,
-    Maggie, Frau Lindner.
-16. **Sora's VESPER request** — Isabelle promised to try to get her a signed
-    album from Seoul (Ch16). Potential reveal vector.
-17. **Seoul practice room visit** — Isabelle plans to take Caspar to the Shin
-    Entertainment practice room where she trained (Ch16). This will be his first
-    in-person encounter with VESPER.
-18. **Frame 36** — Still unused. "아직 안 끝났으니까" (Because it's not over yet).
-19. **Hina + Ren** — Noted walking together at the periphery after the track meet
-    (Ch15). New constellation forming.
-20. **The Tokyo Dome concert** — Confirmed for September. They plan to attend
-    together from the fan section with lightsticks.
+2. **Waldstein Botanicals × VESPER partnership** — Phase 3 full campaign Q1 next
+   year. The corporate merger-romance parallel is tracking.
+3. **Auntie Choi and Auntie Park** — Ongoing comedic/warm subplot. Now
+   coordinating across time zones. Their nightly calls continue.
+4. **Kenji + Sora** — Explicitly progressing. His arm around her shoulders at
+   Tokyo Dome (deliberate, not tentative). Her head on his shoulder on the train
+   home (Ch20). He gave a signed inscribed album. Still not formally named.
+5. **Hina's writing** — She started writing essays about observation (Ch20).
+   Offered to show Isabelle and Caspar. This is a new creative arc.
+6. **Ren's running** — National junior selection trial training camp (Ch20).
+   1:56 at regional invitational. His trajectory continues independently.
+7. **Daiki's dungeon crawler** — Building a multiplayer dungeon crawler with
+   procedurally generated environments and an AI dungeon master. Second
+   programming camp in September.
+8. **The choreo video** — Not publicly leaked. Yuna called it a "national
+   treasure." Still in existence. Potential future vector.
+9. **Sora meeting VESPER** — Isabelle promised "When the time is right" (Ch21).
+   She asked Isabelle to tell Yuna: "The girl from the fan event is still here,
+   and she means it."
+10. **Isabelle's cooking club** — New ongoing activity. Taught madeleines.
+    Uneven results. Still building.
+11. **Caspar's autumn exhibition** — Submitted Seoul work. Opening mid-October.
+12. **Yuki** — Knows the most and says the least. Her ghost-smile still deployed
+    with increasing frequency. She closed her program booklet at the concert and
+    simply watched in wonder.
 
 ---
 
@@ -699,15 +836,15 @@ group's edge. Spotted Caspar on VESPERspace app (told Sora).
 - **No quoted text in chapter bodies** — LINE messages are formatted as block
   quotes with translation. No other text appears in quotation marks for thoughts
   or messages.
-- **Korean language accuracy:** All Korean usage must be linguistically correct —
-  honorifics, speech levels, address terms, and particle usage should reflect real
-  Korean usage. Age-based terms (언니, 형, etc.) follow actual age hierarchy, not
-  respect or skill level.
+- **Korean language accuracy:** All Korean usage must be linguistically correct
+  — honorifics, speech levels, address terms, and particle usage should reflect
+  real Korean usage. Age-based terms (언니, 형, etc.) follow actual age
+  hierarchy, not respect or skill level.
 - **Extended ensemble scenes:** Ch14–16 feature larger group dynamics (11 people
   at final lunch). The voice handles multi-character scenes without focal
   dilution.
 - **Hina's direct speech pattern:** Rare, precise declarations — each sentence
   operates at the level of a thesis statement for a person. Newly prominent in
   Ch15.
-- **The "arrival" metaphor:** Helena's "Du siehst aus, als ob du angekommen bist"
-  adds a thematic thread parallel to "여기서부터" — arriving vs. starting.
+- **The "arrival" metaphor:** Helena's "Du siehst aus, als ob du angekommen
+  bist" adds a thematic thread parallel to "여기서부터" — arriving vs. starting.

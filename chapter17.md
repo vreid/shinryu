@@ -55,7 +55,7 @@ that the limits were negotiable.
 
 She was back.
 
-"지원아!"
+"지원아!" _Ji-won-ah!_
 
 The voice cut through the lobby noise with the surgical precision of someone who
 had spent three years training their vocal projection in studios designed to
@@ -159,7 +159,7 @@ inside her was compressed so tightly that when it was released it occupied more
 space than her body could account for. In person, off-stage, she was simply
 small and quiet and very, very still.
 
-"언니," Jiwoo said.
+"언니," Jiwoo said. _Unnie._
 
 "지우야."
 

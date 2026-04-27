@@ -485,16 +485,16 @@ He stared at it.
 The notification was from a group chat. A family group chat—his parents, his
 mother's assistant, Auntie Park, Hayashi-san, and himself. His mother had sent a
 photo of a bouquet of white tulips on her desk in the Seoul office, captioned:
-**First day! I'm with you in spirit, Schatz. 화이팅! 💙**
+**First day! I'm with you in spirit, Schatz. 화이팅 _Fighting!_ 💙**
 
 His father had replied with a single emoji: 👍
 
 This was, for Ryu Ji-seok, an extravagant display of emotion.
 
-Caspar typed a response— **감사합니다** —and then closed the app. And then
-opened it again. And then navigated, with the slow reluctance of someone
-approaching a door they weren't sure they wanted to open, to his private chat
-history.
+Caspar typed a response— **감사합니다** _Thank you_ —and then closed the app.
+And then opened it again. And then navigated, with the slow reluctance of
+someone approaching a door they weren't sure they wanted to open, to his private
+chat history.
 
 The chat with Isabelle.
 

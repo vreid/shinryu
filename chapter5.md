@@ -1004,7 +1004,7 @@ things that happened to her.
 
 But this time, after ten steps, she turned around.
 
-"캐스퍼."
+"캐스퍼." _Caspar._
 
 He was still standing where she'd left him, the camera in his hands, the cherry
 blossoms falling around him in the golden light.

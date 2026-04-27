@@ -264,7 +264,7 @@ Caspar was still. The stoic architecture had been overwhelmed.
 
 "이자벨 언니한테요." _To Isabelle-unnie._
 
-"네."
+"네." _Yes._
 
 Jiwoo extended her hand. An open palm, facing up—the dancer's hand, the hand
 that performed the extension every night, the extension that had come from
@@ -364,7 +364,7 @@ center. Jiwoo left. Yuna right. Isabelle middle. Caspar beside Isabelle.
 He held the camera at arm's length—the same blind composition as Frame 34, no
 viewfinder, the image left to instinct.
 
-"하나, 둘, 셋!"
+"하나, 둘, 셋!" _One, two, three!_
 
 Two shutters fired simultaneously—the phone's electronic click and the Leica's
 mechanical whisper.

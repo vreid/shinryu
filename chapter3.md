@@ -686,7 +686,7 @@ phenomenon.
 
 "내일도?" she said quietly. _Tomorrow too?_
 
-He nodded. "내일도."
+He nodded. "내일도." _Tomorrow too._
 
 She turned and walked away. Same pace, same posture, same deliberate placement
 of each step. She rounded the corner of the gymnasium and was gone.

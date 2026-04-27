@@ -579,7 +579,7 @@ Two words. From Auntie Park, who distributed praise the way a central bank
 distributed currency—sparingly, deliberately, with an awareness that the value
 of the gesture was directly proportional to its rarity.
 
-Isabelle bowed her head. "감사합니다, 이모님."
+Isabelle bowed her head. "감사합니다, 이모님." _Thank you, Auntie._
 
 Caspar ate two madeleines without comment. His silence was, Isabelle understood,
 its own form of compliment—the silence of someone who had tasted these before,
@@ -765,7 +765,7 @@ prints in her hands.
 
 "캐스퍼." His name, in Korean, in the dark.
 
-"응."
+"응." _Yeah._
 
 She stepped closer. One step. Twelve inches of darkroom floor, closing the
 distance from professional to personal, from observer to subject, from _we're

@@ -824,12 +824,12 @@ Not yet. Not that part. Not that disclosure. That was for later—for a time whe
 the thing between them was strong enough to survive the weight of other people's
 expectations.
 
-"잘 자, 캐스퍼," she said. Even though it was 5 PM. Even though the sun was
-still up. The ritual. The touchstone. The phrase that meant: _whatever happens
-between now and the next time I see you, this is the last thing I want you to
-hear from me._
+"잘 자, 캐스퍼," she said. _Good night, Caspar._ Even though it was 5 PM. Even
+though the sun was still up. The ritual. The touchstone. The phrase that meant:
+_whatever happens between now and the next time I see you, this is the last
+thing I want you to hear from me._
 
-"잘 자, 이자벨."
+"잘 자, 이자벨." _Good night, Isabelle._
 
 He turned and walked back through the lobby. The doorman bowed again. The glass
 doors closed behind him.

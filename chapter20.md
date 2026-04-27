@@ -678,12 +678,12 @@ face that had turned away from her kiss and then, months later, turned toward
 it. The face that had watched her through viewfinders and across gymnasiums and
 over the forty-centimeter gap of a bench behind a building where nobody went.
 
-"사랑해," she said. The word. The name of the river. Spoken not at midnight, not
-in a message, not across a time zone—spoken here, in a dome concourse, in the
-flow of fifty-five thousand people, in the specific, unbeautiful light of a
-venue that was emptying.
+"사랑해," she said. _I love you._ The word. The name of the river. Spoken not at
+midnight, not in a message, not across a time zone—spoken here, in a dome
+concourse, in the flow of fifty-five thousand people, in the specific,
+unbeautiful light of a venue that was emptying.
 
-"사랑해," he said.
+"사랑해," he said. _I love you._
 
 They stood against the pillar. The crowd moved. The dome hummed. Their friends
 waited—Kenji translating Sora's emotions, Yuki clutching her program, Daiki
@@ -749,7 +749,7 @@ a kind of dance.
 
 "잘 자이자 좋은 아침," she murmured. _Good night and good morning._
 
-"잘 자이자 좋은 아침," he murmured back.
+"잘 자이자 좋은 아침," he murmured back. _Good night and good morning._
 
 The train carried them home. The city turned beneath them. The dome glowed
 behind them—white, enormous, still lit, a landmark and a memory and a place

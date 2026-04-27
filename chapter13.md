@@ -641,7 +641,7 @@ looking at 2 AM in the practice room—the bones of her face sharper, the shadow
 under her eyes deeper, the particular beauty of fatigue that came from doing
 something you loved until your body protested.
 
-"언니," Jiwoo said.
+"언니," Jiwoo said. _Unnie._
 
 "지우야."
 

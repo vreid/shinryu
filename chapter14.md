@@ -814,7 +814,7 @@ where the walls showed them who they were to each other.
 
 "이자벨," he said.
 
-"응."
+"응." _Yeah._
 
 "벽에 걸어줘서 고마워."
 

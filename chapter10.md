@@ -819,7 +819,7 @@ uncontrolled, unfiltered, full.
 
 "상관없어." _I don't care._
 
-"잘 자, 여자친구."
+"잘 자, 여자친구." _Good night, girlfriend._
 
 They gathered their things. They walked to the station. They rode the train back
 into the city—sitting side by side, her head on his shoulder, his arm around her
