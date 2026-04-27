@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 Sunday.
 
@@ -25,9 +25,9 @@ Reel into the developing tank. Lid on. Safelight back on.
 
 Developer: C-41 color process, thirty-eight degrees Celsius, three and a half
 minutes. He poured the solution in, started his timer, and began the agitation
-cycle—gentle inversions every thirty seconds, the tank turned end over end with a
-wrist motion that was second nature now, the liquid sloshing inside with a sound
-like a small, contained tide.
+cycle—gentle inversions every thirty seconds, the tank turned end over end with
+a wrist motion that was second nature now, the liquid sloshing inside with a
+sound like a small, contained tide.
 
 He counted the seconds. He didn't think about what was on the film. This was the
 rule: during development, you thought about chemistry, not content. You served
@@ -36,8 +36,8 @@ the silver halide, waiting for the chemistry to make them visible. Your job was
 to not ruin them with impatience.
 
 Three and a half minutes. Bleach. Fix. Stabilizer. Wash—running water through
-the tank for ten minutes, the flow steady and cool, carrying away the last of the
-unused chemistry.
+the tank for ten minutes, the flow steady and cool, carrying away the last of
+the unused chemistry.
 
 He opened the tank. He pulled the film from the reel—a long, wet strip, the
 negatives glistening, each frame a small inverted window into yesterday. He
@@ -280,7 +280,7 @@ The screen went quiet for fifteen seconds. Then:
 
 ---
 
-## II.
+## II
 
 Monday came with rain.
 
@@ -405,7 +405,7 @@ people communicated with their whole faces. "You're welcome."
 
 ---
 
-## III.
+## III
 
 At lunch, it rained harder.
 
@@ -642,7 +642,7 @@ by something simpler and more fundamental.
 
 ---
 
-## IV.
+## IV
 
 Tuesday. The friend groups collided.
 
@@ -981,7 +981,7 @@ exactly right.
 
 ---
 
-## V.
+## V
 
 Tuesday evening. The Aunties coordinated.
 

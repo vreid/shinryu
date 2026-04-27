@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 Saturday arrived the way Saturdays do in Tokyo in early April—slowly, softly,
 the light coming up over the eastern skyline in gradients of pewter and rose,
@@ -113,7 +113,7 @@ He didn't examine this decision further.
 
 ---
 
-## II.
+## II
 
 Across the city, Isabelle was standing in front of her bathroom mirror,
 performing skincare.
@@ -250,7 +250,7 @@ She walked out into the Saturday afternoon.
 
 ---
 
-## III.
+## III
 
 Daikanyama in April was a neighborhood that seemed to have been designed by
 someone who understood the relationship between architecture and mood.
@@ -642,7 +642,7 @@ She drank her coffee.
 
 ---
 
-## IV.
+## IV
 
 He told her.
 
@@ -811,7 +811,7 @@ open, unfiltered, the most vulnerable he had seen her since the terrace.
 
 ---
 
-## V.
+## V
 
 They left the café at 3:45.
 

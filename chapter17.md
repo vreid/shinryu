@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 The Incheon arrivals hall smelled like air conditioning and floor wax and the
 faint, ubiquitous sweetness of the duty-free perfume corridor that every
@@ -191,7 +191,7 @@ something and she wanted them to mean what they meant.
 
 ---
 
-## II.
+## II
 
 The van was waiting in the underground parking structure—a black Hyundai Staria,
 the agency's standard transport vehicle, its windows tinted to the legal limit
@@ -296,7 +296,7 @@ becoming.
 
 ---
 
-## III.
+## III
 
 The practice room.
 
@@ -363,8 +363,8 @@ she moved. She looked up when the door opened.
 She was on her feet and across the room in approximately two seconds. The hug
 was warm—Haeun's hugs were always warm, Haeun's entire existence was warm, she
 was the member who laugh-cried at tarte au citron in the practice room—and
-Isabelle received it with the particular gratitude of someone
-returning to a hug they had missed.
+Isabelle received it with the particular gratitude of someone returning to a hug
+they had missed.
 
 "잘 지냈어?" Haeun asked, pulling back, her hands on Isabelle's shoulders, her
 eyes scanning Isabelle's face with the attentive concern of the member who had
@@ -607,7 +607,7 @@ printed in a program that fifty-five thousand people would hold.
 
 ---
 
-## IV.
+## IV
 
 That night. The trainee dorm.
 

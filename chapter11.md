@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 VESPER's second single dropped on a Friday at midnight.
 
@@ -53,10 +53,10 @@ The VESPER group chat detonated.
 > **유나언니:** 지우야 긴장하지마!!! 너 최고야!!!! 우리 다 최고야!!!!
 
 Isabelle read the messages. She could feel them vibrating with the specific,
-compressed energy of four women who had spent three years training and six months
-preparing this release and who were now, at 12:01 AM on a Friday, watching their
-work enter the world and waiting—with the particular terror that only artists
-understood—to find out if the world would care.
+compressed energy of four women who had spent three years training and six
+months preparing this release and who were now, at 12:01 AM on a Friday,
+watching their work enter the world and waiting—with the particular terror that
+only artists understood—to find out if the world would care.
 
 She typed:
 
@@ -177,7 +177,7 @@ careful handling.
 
 ---
 
-## II.
+## II
 
 By Monday morning, "Somebody Knows" had sixty-two million streams.
 
@@ -193,10 +193,10 @@ At school, the number existed differently. It existed as Sora.
 Sora arrived at Monday morning homeroom in a state of transcendence.
 
 "Ji-won. Yuki. Hina. Everyone. Listen. 'Somebody Knows.' Sixty-two million. In
-_three days._ That's—that's the fastest-streaming K-pop comeback for a rookie group
-in—I checked the records—in _two years._ They're charting in fourteen countries.
-The music video has twenty-eight million views. Jiwoo's solo dance break is
-trending globally. _Globally,_ Ji-won."
+_three days._ That's—that's the fastest-streaming K-pop comeback for a rookie
+group in—I checked the records—in _two years._ They're charting in fourteen
+countries. The music video has twenty-eight million views. Jiwoo's solo dance
+break is trending globally. _Globally,_ Ji-won."
 
 She was holding her phone in one hand and a printout—an actual printout, on
 paper, produced from a home printer—of the streaming statistics in the other.
@@ -344,7 +344,7 @@ of knowing which observations to keep.
 
 ---
 
-## III.
+## III
 
 Wednesday. The fan event.
 
@@ -498,7 +498,7 @@ that had become, despite its improbable composition, something real.
 
 ---
 
-## IV.
+## IV
 
 Friday evening. The night before the event.
 
@@ -626,7 +626,7 @@ time, not afraid of it.
 
 ---
 
-## V.
+## V
 
 Saturday. Shibuya. 9 AM.
 
@@ -861,7 +861,7 @@ to reveal.
 
 ---
 
-## VI.
+## VI
 
 The high-five event.
 

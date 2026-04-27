@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 The toaster in the Minami-Aoyama apartment had been imported from a workshop in
 Darmstadt.
@@ -222,7 +222,7 @@ strategically, and from behind a desk.
 
 ---
 
-## II.
+## II
 
 Across the city, in a renovated mid-century apartment on a tree-lined street in
 Hiroo, Caspar Waldstein was standing in his darkroom staring at a strip of 35mm
@@ -438,7 +438,7 @@ reach his face.
 
 ---
 
-## III.
+## III
 
 The car was a black Toyota Crown, current model, with tinted windows and an
 interior that smelled like leather conditioner and green tea.
@@ -506,7 +506,8 @@ like a fossil preserved in amber.
 >
 > **Isabelle:** 그건 알아줬으면 좋겠어. _I need you to know that._
 >
-> **Isabelle:** 아직 얘기할 준비가 안 됐을 뿐이야. _I'm just not ready to talk about it yet._
+> **Isabelle:** 아직 얘기할 준비가 안 됐을 뿐이야. _I'm just not ready to talk
+> about it yet._
 
 He had not replied. He had read the messages—she would have seen the blue
 checkmarks—and he had not replied, because he hadn't known what to say that
@@ -545,7 +546,7 @@ jam taste like a memory.
 
 ---
 
-## IV.
+## IV
 
 Isabelle saw the school before she felt it.
 
@@ -670,7 +671,7 @@ She turned around.
 
 ---
 
-## V.
+## V
 
 Caspar was standing seven meters away.
 
@@ -777,7 +778,7 @@ unchanged—into the first day of the rest of everything.
 
 ---
 
-## VI.
+## VI
 
 The entrance ceremony at Sakuragaoka High was held in the gymnasium, a large,
 echoey space with a scuffed hardwood floor and basketball hoops retracted
@@ -1007,7 +1008,7 @@ Yuki looked at her for a long moment. The file was being updated.
 
 ---
 
-## VII.
+## VII
 
 The first break came at 10:40.
 

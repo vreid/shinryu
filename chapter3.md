@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 Caspar woke at 5:14 AM to the sound of his own breathing and the pale gray light
 of pre-dawn Tokyo filtering through curtains he'd forgotten to close.
@@ -108,8 +108,8 @@ at himself in the mirror and saw a person who was pretending to be a normal
 student with roughly the same conviction that a wolf might pretend to be a large
 dog.
 
-The kitchen table held breakfast: rice, doenjang-jjigae, grilled mackerel, pickled
-cucumber, seasoned seaweed, and two slices of the Munich pretzel.
+The kitchen table held breakfast: rice, doenjang-jjigae, grilled mackerel,
+pickled cucumber, seasoned seaweed, and two slices of the Munich pretzel.
 
 "You ran," Auntie Park said. Not a question.
 
@@ -210,7 +210,7 @@ next to the bento.
 
 ---
 
-## II.
+## II
 
 The morning at Sakuragaoka High passed with the compressed, slightly surreal
 quality of a second day—everything from yesterday just familiar enough to
@@ -349,7 +349,7 @@ She locked the phone. The bell rang. First break.
 
 ---
 
-## III.
+## III
 
 12:28 PM.
 
@@ -623,7 +623,7 @@ other with a force that whitened the skin around her knuckles.
 
 ---
 
-## IV.
+## IV
 
 They sat for another eight minutes. The conversation shifted—eased, really, like
 a muscle releasing after a sustained contraction. They talked about the school.
@@ -746,7 +746,7 @@ hall.
 
 ---
 
-## V.
+## V
 
 That evening, Isabelle baked.
 
@@ -989,7 +989,7 @@ _Anywhere._
 
 ---
 
-## VI.
+## VI
 
 In Hiroo, Caspar was in his darkroom.
 
@@ -1122,8 +1122,8 @@ year.
 
 He turned off the light.
 
-In Minami-Aoyama, two kilometers and a hundred unasked questions away,
-Isabelle did the same.
+In Minami-Aoyama, two kilometers and a hundred unasked questions away, Isabelle
+did the same.
 
 ---
 

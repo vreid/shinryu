@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 The photography exhibition was scheduled for Friday, the last day of May.
 
@@ -148,7 +148,7 @@ She thought: _We chose well._
 
 ---
 
-## II.
+## II
 
 Friday. Exhibition day.
 
@@ -313,7 +313,7 @@ the body language of their friendship, the equivalent of a tearful embrace.
 
 ---
 
-## III.
+## III
 
 Saturday morning. Caspar went to work.
 
@@ -549,7 +549,7 @@ He thought: _This is what privilege pays back._
 
 ---
 
-## IV.
+## IV
 
 Friday. The day before the prefectural meet.
 
@@ -635,7 +635,7 @@ light, precise, confident sound, the sound of someone moving forward.
 
 ---
 
-## V.
+## V
 
 Monday evening. Isabelle's apartment.
 

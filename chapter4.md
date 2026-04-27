@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 Wednesday.
 
@@ -152,7 +152,7 @@ Both of them wanted to.
 
 ---
 
-## II.
+## II
 
 Thursday. Kenji got his lunch.
 
@@ -318,7 +318,7 @@ exactly that kind of thing.
 
 ---
 
-## III.
+## III
 
 Friday. The first week was ending.
 
@@ -484,7 +484,7 @@ She returned to her madeleine and her window and her watching.
 
 ---
 
-## IV.
+## IV
 
 Friday afternoon. Club recruitment.
 
@@ -692,7 +692,7 @@ grip communicating a gratitude that bordered on spiritual.
 
 ---
 
-## V.
+## V
 
 Friday evening. The first week was over.
 

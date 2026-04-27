@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 Thursday morning, Isabelle brought madeleines for the boys.
 
@@ -155,7 +155,7 @@ a different unit.
 
 ---
 
-## II.
+## II
 
 Friday. The end of week two.
 
@@ -402,7 +402,7 @@ beat that said: _I heard it too. We'll be more careful._
 
 ---
 
-## III.
+## III
 
 After lunch. The hallway.
 
@@ -481,7 +481,7 @@ Isabelle stood in the hallway for three more seconds. Then she followed.
 
 ---
 
-## IV.
+## IV
 
 Saturday. The second weekend.
 
@@ -642,7 +642,7 @@ misread.
 
 ---
 
-## V.
+## V
 
 They took the train to Omotesandō and walked from there.
 

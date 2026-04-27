@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 Being Caspar's girlfriend changed nothing and everything.
 
@@ -193,7 +193,7 @@ from a blur into a form that Yuki could almost name.
 
 ---
 
-## II.
+## II
 
 Friday afternoon. The first real test.
 
@@ -408,7 +408,7 @@ are heavy, but we're carrying them together, and together they're lighter._
 
 ---
 
-## III.
+## III
 
 Saturday. The third weekend.
 

@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 The prefectural meet was held at Komazawa Olympic Park, on a Saturday in early
 June that arrived carrying the first real humidity of the year—a thickness in
@@ -94,11 +94,11 @@ painted text and stick figure visible from the track.
 
 Isabelle sat beside Caspar, their thighs touching on the concrete bench. She was
 wearing a white cotton dress and canvas sneakers and she had brought a bag
-containing eight éclairs (one per person, Ren's saved for after the race, kept cold
-in an insulated bag with a gel pack because Auntie Choi did not permit pastry to
-travel without temperature control). Caspar was wearing a linen shirt and dark
-shorts and the Leica was around his neck—this was, after all, a visual event,
-and Caspar attended all visual events armed.
+containing eight éclairs (one per person, Ren's saved for after the race, kept
+cold in an insulated bag with a gel pack because Auntie Choi did not permit
+pastry to travel without temperature control). Caspar was wearing a linen shirt
+and dark shorts and the Leica was around his neck—this was, after all, a visual
+event, and Caspar attended all visual events armed.
 
 Yuki sat on Isabelle's other side, a notebook open on her knee, already
 recording observations about the track layout, the lane assignments, the warm-up
@@ -111,7 +111,7 @@ The 800 meters was at 2:15.
 
 ---
 
-## II.
+## II
 
 The competitors assembled on the track. Eight runners, each one lean and coiled
 and wearing the focused expression of someone who had been training for this
@@ -320,7 +320,7 @@ But directed at them, the meaning shifted: _Good for us._
 
 ---
 
-## III.
+## III
 
 After the meet. Komazawa Park.
 
@@ -523,7 +523,7 @@ The group breathed. The circle held.
 
 ---
 
-## IV.
+## IV
 
 They stayed in the park until the light began to fail.
 
@@ -591,7 +591,7 @@ Hina was paying attention. Hina smiled.
 
 ---
 
-## V.
+## V
 
 They left the park at 6:30.
 

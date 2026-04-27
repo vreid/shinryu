@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 Wednesday's final bell rang at 3:15, and Isabelle was ready.
 
@@ -264,7 +264,7 @@ They started walking again.
 
 ---
 
-## II.
+## II
 
 The print lab was in a basement.
 
@@ -335,7 +335,7 @@ They walked.
 
 ---
 
-## III.
+## III
 
 The building in Hiroo was seven stories of reinforced concrete and tinted glass,
 set back from the street behind a row of Japanese maples that were fully leafed
@@ -480,7 +480,7 @@ happy.
 
 ---
 
-## IV.
+## IV
 
 They ate at the kitchen table.
 
@@ -588,7 +588,7 @@ perform his enjoyment.
 
 ---
 
-## V.
+## V
 
 After dinner, the darkroom.
 
@@ -877,7 +877,7 @@ It was still beating fast.
 
 ---
 
-## VI.
+## VI
 
 Isabelle walked home through Hiroo.
 

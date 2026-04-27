@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 Class 1-2's homeroom was on the opposite side of the hallway from 1-3, which
 meant that Caspar could see Isabelle's classroom door from his seat if he leaned
@@ -126,7 +126,7 @@ back two degrees to look at the door across the hall.
 
 ---
 
-## II.
+## II
 
 The first break period arrived and the classroom transformed.
 
@@ -356,7 +356,7 @@ _She's here._
 
 ---
 
-## III.
+## III
 
 Lunch at Sakuragaoka High operated on a system that Isabelle had spent twenty
 minutes studying in the student handbook the night before, and which turned out,
@@ -455,7 +455,7 @@ Isabelle ate a piece of bulgogi. It was perfect.
 
 ---
 
-## IV.
+## IV
 
 Across the hallway, Caspar was eating his bento alone.
 
@@ -593,7 +593,7 @@ the same thing.
 
 ---
 
-## V.
+## V
 
 The afternoon passed in the particular rhythm of a Japanese school
 day—fifty-minute periods separated by ten-minute breaks, each transition marked
@@ -684,7 +684,7 @@ received it accordingly.
 
 ---
 
-## VI.
+## VI
 
 The final bell rang at 3:15.
 
@@ -840,7 +840,7 @@ Caspar swept.
 
 ---
 
-## VII.
+## VII
 
 The day ended.
 

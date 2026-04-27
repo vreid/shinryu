@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 The problem arrived on a Tuesday, and it arrived through Ren.
 
@@ -162,7 +162,7 @@ Isabelle ate a piece of her bulgogi. She chewed slowly. She thought.
 
 ---
 
-## II.
+## II
 
 The solution arrived that evening, at 9:47 PM, through the LINE thread.
 
@@ -359,7 +359,7 @@ He picked up the phone.
 
 ---
 
-## III.
+## III
 
 Wednesday. Caspar spoke to Fujita.
 
@@ -511,7 +511,7 @@ timing precise, the result inevitable.
 
 ---
 
-## IV.
+## IV
 
 Thursday. Isabelle went to work.
 

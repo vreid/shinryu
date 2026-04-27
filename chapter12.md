@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 Saturday night. The VESPER group chat.
 
@@ -458,8 +458,8 @@ the individuals within it, monitoring, calibrating, protecting.
 > **지우:** 지원아. 무서운 게 정상이라고 했잖아요. 무섭다는 건 진심이라는
 > 뜻이라고. 이제 안 무서워요?
 >
-> _Ji-won-ah. I said being scared is normal. That being scared means it's real. Are
-> you not scared anymore?_
+> _Ji-won-ah. I said being scared is normal. That being scared means it's real.
+> Are you not scared anymore?_
 
 Isabelle read Jiwoo's message. She read it twice. She thought about the fear—the
 fear of liking someone, the fear of being known, the fear of the gap between who
@@ -539,7 +539,7 @@ somehow, tonight, full of light.
 
 ---
 
-## II.
+## II
 
 Sunday morning. The Hiroo apartment.
 
@@ -765,7 +765,7 @@ softening of her shoulders said everything her voice did not.
 
 ---
 
-## III.
+## III
 
 Sunday afternoon. Isabelle's apartment.
 
@@ -916,7 +916,7 @@ She smiled.
 
 ---
 
-## IV.
+## IV
 
 Monday morning.
 

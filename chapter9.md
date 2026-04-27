@@ -2,7 +2,7 @@
 
 ---
 
-## I.
+## I
 
 Monday morning, Caspar waited for Isabelle at the school gate.
 
@@ -120,7 +120,7 @@ apart, the distance between them no longer a gap but a tether.
 
 ---
 
-## II.
+## II
 
 The information propagated at the speed of a Japanese high school, which was
 faster than light and more efficient than any technology humanity had yet
@@ -295,7 +295,7 @@ _From here._
 
 ---
 
-## III.
+## III
 
 Lunch. The bench.
 
@@ -393,7 +393,7 @@ remained between _from here_ and _here._
 
 ---
 
-## IV.
+## IV
 
 Wednesday. After school. Photography club.
 
@@ -702,7 +702,7 @@ waiting their whole lives for this and didn't care who knew it.
 
 ---
 
-## V.
+## V
 
 They walked home together.
 
