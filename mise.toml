@@ -1,0 +1,8 @@
+[tools]
+bun = 'latest'
+rust = 'latest'
+task = 'latest'
+
+"cargo:mdbook" = "latest"
+"cargo:mdbook-last-changed" = "latest"
+"cargo:mdbook-linkcheck2" = "latest"

@@ -1,0 +1,9 @@
+version: "3"
+
+env:
+  COREPACK_ENABLE_DOWNLOAD_PROMPT: "0"
+
+tasks:
+  mdbook:build:
+    cmds:
+      - mdbook build
